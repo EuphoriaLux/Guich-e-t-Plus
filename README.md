@@ -21,9 +21,7 @@ This browser extension is an open-source project aimed at enhancing customer sup
 
 ## 🛠️ Usage
 
-### Background Logic
 
-The `background.js` file contains the core logic to interact with the Guichet.lu platform.
 
 ### Content Scripts
 
