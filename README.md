@@ -1,5 +1,5 @@
 Guichet.lu Customer Support Enhancer
-📌 Introduction
+📌 Introduction <br>
 This browser extension is an open-source project aimed at enhancing customer support in relation with Guichet.lu. It's designed to improve the structure of the existing Guichet.lu system to allow easy and fast access to response templates in four languages: English (en), French (fr), German (de), and Luxembourgish (lu).
 
 🌟 Special Thanks to my company for allowing the development of this extension on behalf of a Helpdesk for Luxembourg.
