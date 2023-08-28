@@ -41,35 +41,34 @@ You should now see your extension in the list, and it should be automatically en
 
 ### Content Scripts
 
-#### `content.js`
+#### 📜 `content.js`
 
-JavaScript logic to dynamically manipulate the DOM on Guichet.lu web pages, facilitating features like adding a sidebar and leaving unneccessary code block from original webpage, who provide more place for quick access to response templates and more...
-
-#### `content.css`
-
-Works in tandem with `content.js` to style the HTML elements manipulated or added by the JavaScript, including buttons, text areas, and more.
+- 🧩 **Dynamic DOM Manipulation**: Alters the Guichet.lu web pages in real-time to enhance functionality.
+- 🌐 **Multi-Language Support**: Facilitates quick access to response templates in various languages.
+- 📑 **Sidebar Addition**: Adds a sidebar for easier navigation and access to commonly used features.
+- 🗑️ **Code Block Removal**: Removes unnecessary code blocks from the original webpage to provide more space for essential features.
 
 ### Additional Styles
 
-#### `darkmode.css`
+#### 🌙 `darkmode.css`
 
-Provides the dark mode styling, enhancing readability and reducing eye strain during extended use.
-
-#### `standard_template_builder.css`
-
-Stylesheet specific to the standard template builder, affecting elements like buttons, form fields, and layout.
+- 📖 **Enhanced Readability**: Provides styling that's easier on the eyes, especially in low-light conditions.
+- 😎 **Reduced Eye Strain**: The dark color scheme reduces eye strain during extended use.
+- 🌓 **Toggleable**: Can be toggled on and off based on user preference.
 
 ### Standard Template Builder
 
-#### `standard_template_builder.js`
+#### 🛠️ `standard_template_builder.js`
 
-Core logic for building and customizing standard templates for different languages. Includes functionalities like converting relative URLs to absolute ones, fetching organization details, and more.
+- 🌐 **Multi-Language Templates**: Core logic for building and customizing standard templates across different languages.
+- 🔗 **URL Conversion**: Includes functionality to convert relative URLs to absolute ones.
+- 🏢 **Organization Details**: Fetches organization-specific details for use in templates.
 
-**Key Functions:**
-- `createElementWithId(tagName, id)`: Creates HTML elements with specific IDs.
-- `convertRelativeToAbsoluteURLs(element)`: Converts relative URLs to absolute ones.
-- `getOrganizationDetails()`: Fetches organization-specific details for template customization.
-- `getLastBreadcrumbLink(language, id)`: Retrieves the last breadcrumb link based on the specified language and ID.
+**🔑 Key Functions:**
+- 🏷️ **Standard Template Generation**: Automatically creates standard templates based on the loaded webpage for consistent Helpdesk support.
+- 🔗 **Quick Copy to Clipboard**: Features a quick "Copy to Clipboard" button to instantly save the template in the Windows Clipboard. Supports HTML-formatted text.
+- 🏢 **Quick Admin Assignment**: Allows for the quick addition of the administration responsible for the procedure.
+- 🖋️ **Breadcrumb Inclusion**: Enhances customer support by adding breadcrumb navigation to the template. Thanks to HTML-formatted text, multiple URLs can be captured and pasted seamlessly.
 
 ## 👥 Contribution
 
