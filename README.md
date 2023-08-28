@@ -15,17 +15,16 @@ This browser extension is an open-source project aimed at enhancing customer sup
 
 ## 🚀 Features
 
+- 🏷️ Standard Template Generation: Automatically creates standard templates based on the loaded webpage
 - 🌐 Multi-language Support (en, fr, de, lu)
-- 🌙 Dark Mode
-
 
 ## 🕊️ Up-Coming Features
 
-- 📑 Quick Access to Response Templates
+- 📑 Quick Access to Non-Standard Templates (also called real Templates)
 - 💼 Template Management System
-- ✨ And more...
 - 🪇 Installing from Chrome Web Store (Future) Once the extension is available on the Chrome Web Store, you can directly install it from there.
-
+- ✨ And more...
+  
 ## ⚙️ Installation
 
 1. Download the code
