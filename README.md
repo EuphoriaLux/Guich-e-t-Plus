@@ -29,7 +29,7 @@ It's designed to improve the structure of the existing Guichet Website to allow 
   
 ## ⚙️ Installation
 
-1. Download the code
+1. **Download the code**
 
 2. **Navigate to Chrome Extensions**:  
 Open Google Chrome, click on the three-dot menu on the top-right corner, and go to `Extensions`.
