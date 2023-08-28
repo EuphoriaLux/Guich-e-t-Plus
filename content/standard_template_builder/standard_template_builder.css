@@ -1,0 +1,34 @@
+/* Styling for the standard-template-container */
+#standard-template-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 10px;
+}
+
+/* Styling for the standard-template-header */
+#standard-template-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+/* Styling for the standard-template-display */
+#standard-template-display {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-height: 100px;
+}
+
+/* Styling for the standard-template-footer */
+#standard-template-footer {
+  margin-top: 10px;
+  display : flex;
+
+}
+
+/* Styling for the checkboxes in the footer */
+#standard-template-footer input[type="checkbox"] {
+  margin-right: 5px;
+}

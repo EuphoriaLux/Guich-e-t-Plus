@@ -1,0 +1,256 @@
+@keyframes gradient-bg {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Dark Mode - Header Text Styles */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5 {
+    color: #BB86FC;
+    text-shadow: 0 0 5px #BB86FC;
+}
+
+/* Dark Mode - Govbar Styles */
+body.dark-mode #govbar {
+    background-color: rgb(36, 59, 85); /* Dark background */
+    color: #fff; /* White text */
+    border-radius: 4px; /* Rounded corners */
+}
+
+/* Dark Mode - Govbar Logo */
+body.dark-mode #govbar .govbar-logo img {
+    filter: invert(1); /* Invert colors to fit dark theme */
+}
+
+body.dark-mode {
+    background: linear-gradient(270deg, rgb(20, 30, 48), rgb(36, 59, 85), rgb(20, 30, 48));
+    background-size: 200% 200%;
+    animation: gradient-bg 15s ease infinite;
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+    color: #fff;
+    border-radius: 8px;
+}
+
+body.dark-mode a {
+    color: #BB86FC;
+    text-shadow: 0 0 5px #BB86FC;
+}
+
+/* Dark Mode - Breadcrumb links */
+body.dark-mode .breadcrumb a:hover, 
+body.dark-mode .breadcrumb a:link, 
+body.dark-mode .breadcrumb a:visited {
+    color: #BB86FC;
+    text-shadow: 0 0 5px #BB86FC;
+}
+
+
+header.dark-mode {
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+}
+
+body.dark-mode .page-content,
+body.dark-mode .page-title,
+body.dark-mode .main-container,
+body.dark-mode .page-text {
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+body.dark-mode .footer {
+    background-color: #1E1E1E;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+body.dark-mode .btn--process {
+    /* ...existing styles */
+    transition: all 0.3s cubic-bezier(0.25, 0.1, 0.28, 1.5);
+    background: #BB86FC;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+body.dark-mode .btn--process:hover {
+    background: #9A56D8;
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+body.dark-mode a:hover {
+    text-shadow: 0 0 10px #BB86FC, 0 0 20px #BB86FC, 0 0 30px #BB86FC;
+}
+
+/* Dark Mode - Document panel styling */
+body.dark-mode .document-panel {
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+}
+
+/* Individual document panel styling */
+.document-panel {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* General document panels styling */
+.document-panels {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+/* Dark Mode - Document description */
+body.dark-mode .document-description {
+    padding: 16px;
+    color: #fff;
+}
+
+body.dark-mode .document-description strong {
+    color: #BB86FC;
+    text-shadow: 0 0 5px #BB86FC;
+}
+
+body.dark-mode .document-description .gdpr-anchor {
+    color: #BB86FC;
+}
+
+/* Dark Mode - Document action */
+body.dark-mode .document-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+}
+
+/* Dark Mode - Document action content */
+body.dark-mode .document-action-content img {
+    filter: invert(1);
+}
+
+
+/* Dark Mode - Navigation bar */
+body.dark-mode nav.page-headernav {
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* Dark Mode - Navigation title */
+body.dark-mode #headernav-title {
+    color: #fff;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+}
+
+/* Dark Mode - Page logo */
+body.dark-mode .page-logo img {
+    filter: invert(1);  /* Invert logo colors for dark theme */
+}
+
+/* Dark Mode - Page languages */
+body.dark-mode .page-langs {
+    background-color: rgb(20, 30, 48);  /* Slightly darker than the nav background */
+}
+
+/* Dark Mode - Specific Link Style */
+body.dark-mode #headernav > div.nav-section.nav-section--primary > ul > li.nav-item.nav-item--citizen.nav-item--active > a {
+    background-color: rgb(20, 30, 48) !important;
+    color: #BB86FC !important;
+    border-radius: 4px !important;
+    padding: 8px !important;
+    text-decoration: none !important;
+}
+
+body.dark-mode .page-headernav .nav-section--primary .nav ul a {
+    color: #BB86FC !important;
+}
+
+
+/* Dark Mode - SVG icons within the specific link */
+body.dark-mode #headernav > div.nav-section.nav-section--primary > ul > li.nav-item.nav-item--citizen.nav-item--active > a .icon {
+    fill: #BB86FC;  /* Purple fill color */
+}
+
+/* Dark Mode - Span text within the specific link */
+body.dark-mode #headernav > div.nav-section.nav-section--primary > ul > li.nav-item.nav-item--citizen.nav-item--active > a span {
+    color: #BB86FC;  /* Purple text color */
+    text-shadow: 0 0 5px #BB86FC;  /* Text shadow */
+}
+
+
+
+/* Dark Mode - Custom Geoportail Container */
+body.dark-mode .custom-geoportail-container {
+    background-color: rgb(20, 30, 48);
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* Dark Mode - Geoportail Addresses */
+body.dark-mode .geoportail-addresses {
+    background-color: rgb(20, 30, 48);
+}
+
+/* Dark Mode - Vcard */
+body.dark-mode .vcard {
+    background-color: rgb(36, 59, 85);
+    color: #fff;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 8px;
+}
+
+/* Dark Mode - Vcard Title */
+body.dark-mode .vcard-title,
+body.dark-mode .vcard-parent-title {
+    color: #BB86FC;
+    text-shadow: 0 0 5px #BB86FC;
+}
+
+/* Dark Mode - Vcard Item */
+body.dark-mode .vcard-item {
+    color: #fff;
+}
+
+/* Dark Mode - Vcard Actions */
+body.dark-mode .vcard-actions a {
+    color: #BB86FC;
+}
+
+/* Dark Mode - Vcard Action Icons */
+body.dark-mode .vcard-actions .icon {
+    fill: #BB86FC;
+}
+
+/* Dark Mode - Button */
+body.dark-mode .btn {
+    background-color: #BB86FC;
+    color: #000;
+    border-radius: 4px;
+}
+
+/* Dark Mode - Vcard */
+body.dark-mode div.geoportail-addresses li .vcard {
+    background-color: rgb(36, 59, 85);
+    color: #fff;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding: 8px;
+}

@@ -1,0 +1,242 @@
+#main-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#main-wrapper {
+    width: 70%;
+}
+
+#tool-container {
+    width: 30%;
+    padding: 10px;
+}
+
+/* Button Menu Container */
+#button-menu-container {
+    gap: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.geoportail-addresses {
+    width: auto;
+}
+
+
+/* Custom Geoportail Container */
+.custom-geoportail-container {
+    width: 100%;
+    /* Adjust as needed */
+    height: auto;
+    /* Adjust as needed */
+}
+
+.custom-geoportail-container .geoportail-addresses {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: auto;
+    /* To allow scrolling if needed */
+}
+
+.custom-geoportail-container ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-geoportail-container li {
+    flex: 0 0 calc(20% - 10px);
+    /* Changed to not grow, only shrink */
+    margin: 5px;
+    box-sizing: border-box;
+    /* To include padding and border in element's total width and height */
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: flex;
+}
+
+.vcard {
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    max-height: auto; 
+}
+
+.vcard.collapsed {
+    max-height: 35px;  
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Clean Webpage */
+
+.page-content .page-localnav {
+    display: none;
+}
+
+ul.mcgyver {
+    display: none;
+}
+
+div.footer-social {
+    display: none;
+}
+
+div.page-notice {
+    display: none;
+}
+
+div.geoportail {
+    display: none;
+}
+
+div.footer-custom-section {
+    display: none;
+}
+
+div.page-logo {
+    display: none;
+}
+
+#main-wrapper > article > div.page-content > div > div.custom-geoportail-container > div > ul > li:nth-child(82) > div > button{
+    display: none;
+}
+
+/* Extension Button */
+
+.extension-button {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #03e9f4;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.extension-button:hover {
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #03e9f4,
+        0 0 25px #03e9f4,
+        0 0 50px #03e9f4,
+        0 0 100px #03e9f4;
+}
+
+.extension-button span {
+    position: absolute;
+    display: block;
+}
+
+.extension-button span:nth-child(1) {
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #03e9f4);
+    animation: btn-anim1 1s linear infinite;
+}
+
+.extension-button span:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, #03e9f4);
+    animation: btn-anim2 1s linear infinite;
+    animation-delay: .25s;
+}
+
+.extension-button span:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, #03e9f4);
+    animation: btn-anim3 1s linear infinite;
+    animation-delay: .5s;
+}
+
+.extension-button span:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, #03e9f4);
+    animation: btn-anim4 1s linear infinite;
+    animation-delay: .75s;
+}
+
+@keyframes btn-anim1 {
+    0% {
+        left: -100%;
+    }
+
+    50%,
+    100% {
+        left: 100%;
+    }
+}
+
+@keyframes btn-anim2 {
+    0% {
+        top: -100%;
+    }
+
+    50%,
+    100% {
+        top: 100%;
+    }
+}
+
+@keyframes btn-anim3 {
+    0% {
+        right: -100%;
+    }
+
+    50%,
+    100% {
+        right: 100%;
+    }
+}
+
+@keyframes btn-anim4 {
+    0% {
+        bottom: -100%;
+    }
+
+    50%,
+    100% {
+        bottom: 100%;
+    }
+}

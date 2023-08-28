@@ -1,0 +1,54 @@
+{
+  "manifest_version": 3,
+  "name": "My Guichet Plus V2",
+  "version": "2.0",
+  "action": {
+    "default_title": "My Guichet Alpha V2",
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs",
+    "storage",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "https://guichet.public.lu/fr/citoyens*",
+    "https://guichet.public.lu/de/citoyens*",
+    "https://guichet.public.lu/en/citoyens*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://guichet.public.lu/fr/citoyens*",
+        "https://guichet.public.lu/de/citoyens*",
+        "https://guichet.public.lu/en/citoyens*"
+      ],
+
+      "js": [
+        "content/standard_template_builder/standard_template_builder.js",
+        "content/content.js"
+
+    ],
+
+      "css": [
+        "content/content.css",
+        "content/darkmode.css",
+        "content/standard_template_builder/standard_template_builder.css"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
