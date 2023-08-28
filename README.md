@@ -8,10 +8,13 @@ This browser extension is an open-source project aimed at enhancing customer sup
 
 ## 🚀 Features
 
-- 📑 Quick Access to Response Templates
 - 🌐 Multi-language Support (en, fr, de, lu)
 - 🌙 Dark Mode
 - ✨ And more...
+
+## 🕊️ Up-Coming Features
+
+- 📑 Quick Access to Response Templates
 
 ## ⚙️ Installation
 
@@ -21,21 +24,37 @@ This browser extension is an open-source project aimed at enhancing customer sup
 
 ## 🛠️ Usage
 
-
-
 ### Content Scripts
 
-- `content.js`: JavaScript logic to manipulate the DOM.
-- `content.css`: Styling for the manipulated DOM elements.
+#### `content.js`
+
+JavaScript logic to dynamically manipulate the DOM on Guichet.lu web pages, facilitating features like quick access to response templates and multi-language support.
+
+#### `content.css`
+
+Works in tandem with `content.js` to style the HTML elements manipulated or added by the JavaScript, including buttons, text areas, and more.
 
 ### Additional Styles
 
-- `darkmode.css`: Styling for dark mode.
-- `standard_template_builder.css`: Stylesheet for the standard template builder.
+#### `darkmode.css`
+
+Provides the dark mode styling, enhancing readability and reducing eye strain during extended use.
+
+#### `standard_template_builder.css`
+
+Stylesheet specific to the standard template builder, affecting elements like buttons, form fields, and layout.
 
 ### Standard Template Builder
 
-`standard_template_builder.js`: Contains the logic to build and access standard templates.
+#### `standard_template_builder.js`
+
+Core logic for building and customizing standard templates for different languages. Includes functionalities like converting relative URLs to absolute ones, fetching organization details, and more.
+
+**Key Functions:**
+- `createElementWithId(tagName, id)`: Creates HTML elements with specific IDs.
+- `convertRelativeToAbsoluteURLs(element)`: Converts relative URLs to absolute ones.
+- `getOrganizationDetails()`: Fetches organization-specific details for template customization.
+- `getLastBreadcrumbLink(language, id)`: Retrieves the last breadcrumb link based on the specified language and ID.
 
 ## 👥 Contribution
 
