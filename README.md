@@ -2,7 +2,8 @@
 
 ## 📌 Introduction
 
-This browser extension is an open-source project aimed at enhancing customer support in relation with Guichet It's designed to improve the structure of the existing Guichet.lu system to allow easy and fast access to response templates in four languages: 
+This browser extension is an open-source project aimed at enhancing customer support in relation with Guichet 
+It's designed to improve the structure of the existing Guichet Website to allow easy and fast access to response templates in four languages: 
 
 **🌐 Supported Languages:**
 - 🇬🇧 English (en)
