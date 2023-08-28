@@ -16,7 +16,8 @@ This browser extension is an open-source project aimed at enhancing customer sup
 ## 🚀 Features
 
 - 🏷️ Standard Template Generation: Automatically creates standard templates based on the loaded webpage
-- 🌐 Multi-language Support (en, fr, de, lu)
+- 😎 Reduced Eye Strain: The dark color scheme reduces eye strain during extended use.
+- 🗑️ Code Block Removal: Removes unnecessary code blocks from the original webpage to provide more space for essential features.
 
 ## 🕊️ Up-Coming Features
 
@@ -40,7 +41,6 @@ Click on the "Load unpacked" button that appears after enabling Developer mode. 
 
 5. **Extension Loaded**:  
 You should now see your extension in the list, and it should be automatically enabled.
-
 
 
 ## 🛠️ Usage
