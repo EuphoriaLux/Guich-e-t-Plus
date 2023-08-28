@@ -1,4 +1,4 @@
-# Guichet.lu Plus
+# Guichet Plus
 
 ## 📌 Introduction
 
