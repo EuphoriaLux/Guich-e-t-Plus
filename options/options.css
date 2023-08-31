@@ -1,0 +1,333 @@
+.template-form, .template-list {
+  margin-bottom: 30px;
+}
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+table tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* Button Styles */
+
+#template-table button, .show-more {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007BFF;
+  color: #FFF;
+  transition: background-color 0.3s;
+}
+
+#template-table button:hover, .show-more:hover {
+  background-color: #0056b3;
+}
+
+
+
+/* Extension Button */
+
+.extension-button {
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  color: #03e9f4;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 40px;
+  letter-spacing: 4px;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.extension-button:hover {
+  background: #03e9f4;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #03e9f4,
+      0 0 25px #03e9f4,
+      0 0 50px #03e9f4,
+      0 0 100px #03e9f4;
+}
+
+.extension-button span {
+  position: absolute;
+  display: block;
+}
+
+.extension-button span:nth-child(1) {
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #03e9f4);
+  animation: btn-anim1 1s linear infinite;
+}
+
+.extension-button span:nth-child(2) {
+  top: -100%;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #03e9f4);
+  animation: btn-anim2 1s linear infinite;
+  animation-delay: .25s;
+}
+
+.extension-button span:nth-child(3) {
+  bottom: 0;
+  right: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(270deg, transparent, #03e9f4);
+  animation: btn-anim3 1s linear infinite;
+  animation-delay: .5s;
+}
+
+.extension-button span:nth-child(4) {
+  bottom: -100%;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(360deg, transparent, #03e9f4);
+  animation: btn-anim4 1s linear infinite;
+  animation-delay: .75s;
+}
+
+@keyframes btn-anim1 {
+  0% {
+      left: -100%;
+  }
+
+  50%,
+  100% {
+      left: 100%;
+  }
+}
+
+@keyframes btn-anim2 {
+  0% {
+      top: -100%;
+  }
+
+  50%,
+  100% {
+      top: 100%;
+  }
+}
+
+@keyframes btn-anim3 {
+  0% {
+      right: -100%;
+  }
+
+  50%,
+  100% {
+      right: 100%;
+  }
+}
+
+@keyframes btn-anim4 {
+  0% {
+      bottom: -100%;
+  }
+
+  50%,
+  100% {
+      bottom: 100%;
+  }
+}
+
+
+
+.modals-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  transition: background-color 0.3s;
+}
+
+.modal {
+  flex: 1;
+  display: none;
+  max-width: 600px;
+  box-sizing: border-box;
+  padding: 10px 0 10px 10px;
+  border-radius: 5px;
+  overflow-y: auto;
+  max-height: 80vh;
+  transition: opacity 0.3s, transform 0.3s;
+  transform: translateY(-50px);
+  opacity: 0;
+}
+
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 1px solid #888;
+  width: 95%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: #aaa;
+  font-size: 28px;
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  padding: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+  color: black;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+
+.flag-icon {
+  width: 35px;
+  height: auto;
+  margin-right: 5px;
+}
+
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 1px solid #888;
+  width: 95%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5px;
+}
+
+.modal-flag {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.selection-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.tag-button[data-tag="enseignement-formation"] {
+  background-color: #E57373;
+}
+
+.tag-button[data-tag="impots-taxes"] {
+  background-color: #81C784;
+}
+
+.tag-button[data-tag="travail-emploi"] {
+  background-color: #64B5F6;
+}
+
+.tag-button[data-tag="famille"] {
+  background-color: #FFD54F;
+}
+
+.tag-button[data-tag="citoyennete"] {
+  background-color: #BA68C8;
+}
+
+.tag-button[data-tag="transports-mobilite"] {
+  background-color: #7986CB;
+}
+
+.tag-button[data-tag="logement"] {
+  background-color: #4DB6AC;
+}
+
+.tag-button[data-tag="sante-social"] {
+  background-color: #FF8A65;
+}
+
+.tag-button[data-tag="loisirs-benevolat"] {
+  background-color: #A1887F;
+}
+
+.tag-button[data-tag="immigration"] {
+  background-color: #90A4AE;
+}
+
+.tag-button[data-tag="brexit"] {
+  background-color: #F06292;
+}
+
+.tag-button.active {
+  border-color: red;
+}
+
+.td-enseignement-formation {
+  background-color: #E57373;
+}
+
+.td-impots-taxes {
+  background-color: #81C784;
+}
+
+.td-travail-emploi {
+  background-color: #64B5F6;
+}
+
+.td-famille {
+  background-color: #FFD54F;
+}
+
+.td-citoyennete {
+  background-color: #BA68C8;
+}
+
+.td-transports-mobilite {
+  background-color: #7986CB;
+}
+
+.td-logement {
+  background-color: #4DB6AC;
+}
+
+.td-sante-social {
+  background-color: #FF8A65;
+}
+
+.td-loisirs-benevolat {
+  background-color: #A1887F;
+}
+
+.td-immigration {
+  background-color: #90A4AE;
+}
+
+.td-brexit {
+  background-color: #F06292;
+}

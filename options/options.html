@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template Management System</title>
+    <link rel="stylesheet" href="options.css">
+    <link rel="stylesheet" href="./static/base.css" >
+    <link rel="stylesheet" href="./static/sections.css" >
+    <link id="darkmode-link" rel="stylesheet" type="text/css" href="options_darkmode.css" disabled>
+</head>
+
+<body>
+    <header>
+        <h1>Template Management System (TMS) - Alpha </h1>
+        <button id="darkmode-toggle">Toggle Dark Mode</button>
+
+        <nav>
+            <ul>
+                <li><a href="options.html">Home</a></li>
+                <li><a href="storageMonitoring/storageMonitoring.html">Storage Monitoring</a></li>
+                <li><a href="addTemplate/addTemplate.html">Add Template</a></li>
+                <li><a href="./modulo/modulo.html">Modulo 97 Tool</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="content-wrapper">
+        <div class="sections-container">
+            <!-- Gamification Section -->
+            <section class="completion-section">
+                <h2>Template Completion Status</h2>
+                <progress id="completion-progress" value="0" max="100"></progress>
+                <span id="completion-percentage">0%</span>
+            </section>
+            <section class="language-count-section">
+                <h2>Templates Count by Language</h2>
+                <ul>
+                    <li>French (FR): <span id="count-fr">0</span></li>
+                    <li>English (EN): <span id="count-en">0</span></li>
+                    <li>German (DE): <span id="count-de">0</span></li>
+                    <li>Luxembourgish (LU): <span id="count-lu">0</span></li>
+                </ul>
+            </section>
+            <section class="missing-templates-section">
+                <h2>Missing Templates by Language</h2>
+                <ul id="missing-templates-list">
+                    <li>FR: <span id="missing-FR">0 (0%)</span></li>
+                    <li>EN: <span id="missing-EN">0 (0%)</span></li>
+                    <li>DE: <span id="missing-DE">0 (0%)</span></li>
+                    <li>LU: <span id="missing-LU">0 (0%)</span></li>
+                </ul>
+            </section>
+        </div>
+        <hr>
+        <!-- Display Existing Templates -->
+
+
+        <section class="template-list">
+            <h2>Existing Templates</h2>
+            <section class="selection-menu">
+                <button class="tag-button" data-tag="enseignement-formation">éducation</button>
+                <button class="tag-button" data-tag="impots-taxes">fiscalité</button>
+                <button class="tag-button" data-tag="travail-emploi">emploi</button>
+                <button class="tag-button" data-tag="famille">famille</button>
+                <button class="tag-button" data-tag="citoyennete">citoyenneté</button>
+                <button class="tag-button" data-tag="transports-mobilite">transport</button>
+                <button class="tag-button" data-tag="logement">logement</button>
+                <button class="tag-button" data-tag="sante-social">santé / social</button>
+                <button class="tag-button" data-tag="loisirs-benevolat">loisirs</button>
+                <button class="tag-button" data-tag="immigration">immigration</button>
+                <button class="tag-button" data-tag="brexit">brexit</button>
+            </section>
+            <table id="template-table">
+                <thead>
+                    <tr>
+                        <th>Tags</th>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Languages</th>
+                        <th>URL</th>
+                        <th>Created</th>
+                        <th>Last Modified</th>
+                        <th>Usage Count</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Templates will be populated dynamically here -->
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Modal Section -->
+        <div class="modals-container">
+
+            <!-- Modal for French Content -->
+            <div id="template-content-modal-fr" class="modal">
+                <div class="modal-content">
+                    <img src=".\media\png\FR.png" alt="French Flag" class="modal-flag">
+                    <span class="close-btn">&times;</span>
+                    <div id="template-content-container-fr"></div>
+                </div>
+            </div>
+
+            <!-- Modal for English Content -->
+            <div id="template-content-modal-en" class="modal">
+                <div class="modal-content">
+                    <img src=".\media\png\EN.png" alt="English Flag" class="modal-flag">
+                    <span class="close-btn">&times;</span>
+                    <div id="template-content-container-en"></div>
+                </div>
+            </div>
+
+            <!-- Modal for German Content -->
+            <div id="template-content-modal-de" class="modal">
+                <div class="modal-content">
+                    <img src=".\media\png\DE.png" alt="German Flag" class="modal-flag">
+                    <span class="close-btn">&times;</span>
+                    <div id="template-content-container-de"></div>
+                </div>
+            </div>
+
+            <!-- Modal for Luxembourg Content -->
+            <div id="template-content-modal-lu" class="modal">
+                <div class="modal-content">
+                    <img src=".\media\png\LU.png" alt="Luxembourg Flag" class="modal-flag">
+                    <span class="close-btn">&times;</span>
+                    <div id="template-content-container-lu"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <a href="details.html">Go to Details Page</a>
+        <p>&copy; 2023 Power-Up 🕊️. All Rights Reserved.</p>
+        <!-- You can add other footer-related content, such as contact information, additional links, etc., here. -->
+    </footer>
+
+
+    <script type="module" src="main.js"></script>
+
+
+</body>
+
+</html>
+
+

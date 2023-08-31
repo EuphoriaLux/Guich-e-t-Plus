@@ -1,0 +1,83 @@
+/* Base elements */
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    background-color: #ffffff;
+    padding: 0.5em;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+
+/* Layout elements */
+header, footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 15px 20px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Header & Navbar Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a, header a, footer a {
+    color: #FFD700;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 3px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+.content-wrapper {
+    flex-grow: 1;  /* Let it grow to fill the space between header and footer */
+    overflow-y: auto; /* Make it scrollable */
+    padding: 20px; /* Optional, for some space around content */
+}
+
+nav a:hover {
+    background-color: #FFD700;
+    color: #333;
+}
+  
+label {
+    display: block;
+    margin-bottom: 5px;
+}

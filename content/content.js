@@ -7,6 +7,18 @@ function createAndAppendChild(parent, elementType, id, innerHTML = "") {
     return element;
 }
 
+function initializeDarkMode() {
+    // Check initial dark mode state from chrome.storage.local
+    chrome.storage.local.get('darkModeActive', function (data) {
+        if (data.darkModeActive) {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.remove('dark-mode');
+        }
+    });
+}
+
+
 const geoportailCheckInterval = setInterval(() => {
     const geoportail = document.querySelector('.geoportail');
     if (geoportail) {
@@ -96,6 +108,7 @@ console.log("Before async function");
 
     // Add the 'dark-mode' class to the body by default
     document.body.classList.add('dark-mode');
+    initializeDarkMode();  // Add this line here
     
     const mainElement = document.getElementById("main");
     console.log("#main exists:", Boolean(mainElement));
@@ -130,7 +143,8 @@ console.log("Before async function");
     mainElement.appendChild(flexContainer);
 
     exampleButton.addEventListener("click", function () {
-        document.body.classList.toggle('dark-mode');
+        const isDarkModeActive = document.body.classList.toggle('dark-mode');
+        chrome.storage.local.set({'darkModeActive': isDarkModeActive});
     });
     
     
@@ -146,3 +160,14 @@ console.log("Before async function");
 
 console.log("After async function");
 
+chrome.storage.onChanged.addListener(function(changes, namespace) {
+    for (let [key, { oldValue, newValue }] of Object.entries(changes)) {
+        if (key === 'darkModeActive') {
+            if (newValue) {
+                document.body.classList.add('dark-mode');
+            } else {
+                document.body.classList.remove('dark-mode');
+            }
+        }
+    }
+});

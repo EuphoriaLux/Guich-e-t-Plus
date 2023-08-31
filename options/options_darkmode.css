@@ -1,0 +1,69 @@
+/* Header, Nav, and Footer */
+header, nav, footer {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Links */
+a {
+    color: #9fa8da;
+}
+
+/* Buttons */
+button {
+    background-color: #555;
+    color: #fff;
+    border: none;
+}
+
+/* Sections and Containers */
+.content-wrapper, .sections-container, section {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Progress Bar */
+progress {
+    background-color: #555;
+}
+
+/* Table */
+table {
+    border-color: #555;
+}
+
+th, td {
+    border-bottom: 1px solid #555;
+}
+
+th {
+    background-color: #444;
+}
+
+/* Modals */
+.modal-content {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Close Button in Modals */
+.close-btn {
+    color: #fff;
+}
+
+/* Existing Styles */
+/* ... */
+
+/* New Styles for .completion-section, #completion-progress, and #completion-percentage */
+.completion-section {
+    background-color: #333;
+    color: #fff;
+}
+
+#completion-progress {
+    background-color: #555;
+}
+
+#completion-percentage {
+    color: #fff;
+}

@@ -6,6 +6,7 @@
     "default_title": "My Guichet Alpha V2",
     "default_popup": "popup/popup.html"
   },
+  "options_page": "options/options.html",
   "permissions": [
     "activeTab",
     "scripting",
