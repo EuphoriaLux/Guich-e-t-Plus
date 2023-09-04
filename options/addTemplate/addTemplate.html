@@ -28,12 +28,22 @@
 
     <div class="content-wrapper">
         <!-- Template Submission Form -->
+        <!-- Template Submission Form -->
         <form id="new-template-form">
+
+            <label for="template-id">Template ID:</label><input id="template-id" type="text" />
+
             <label for="url">URL:</label><input id="url" required="True" type="text" />
+
+            <!-- Added field to input multiple URLs -->
+            <label for="additional-urls">Additional URLs:</label><input id="additional-urls" type="text"
+                placeholder="Separate by commas" />
+
             <label for="template-name">Template Name:</label><input id="template-name" required="True" type="text" />
             <label for="template-content">Content:</label>
             <div id="template-content" contenteditable="true"></div>
             <label for="language">Language:</label>
+            <!-- Language selection via flags -->
             <div id="flag-container">
                 <img src="..\media\png\FR.png" alt="French" data-language="FR" class="language-flag">
                 <img src="..\media\png\EN.png" alt="English" data-language="EN" class="language-flag">
@@ -41,10 +51,28 @@
                 <img src="..\media\png\LU.png" alt="Luxembourgish" data-language="LU" class="language-flag">
             </div>
             <input type="hidden" id="language" value="EN">
-            <label for="category">Category/Tag:</label>
-            <input id="category" required="True" type="text" />
+
+            <div id="source-url-container">
+                <!-- Source URL fields will be dynamically added here -->
+            </div>
+            <!-- Added field for tags -->
+            <label for="tags">Tags:</label><input id="tags" type="text" placeholder="Separate by commas" />
+
+
+            <!-- Added field for status -->
+            <label for="status">Status:</label>
+            <select id="status">
+                <option value="pending">Pending</option>
+                <option value="approved">Approved</option>
+                <option value="rejected">Rejected</option>
+            </select>
+
             <button type="submit">Save Template</button>
         </form>
+
+        <div id="template-display-container">
+            <!-- Templates will be dynamically displayed here -->
+        </div>
 
     </div>
 

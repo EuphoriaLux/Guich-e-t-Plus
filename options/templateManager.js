@@ -11,11 +11,99 @@ function displayMissingTemplatesCountsAndPercentages(data) {
     });
 }
 
+function addInlineStylesToHTML(htmlContent) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlContent, "text/html");
+
+    // Add inline styles to all paragraphs
+    doc.querySelectorAll('p').forEach((p) => {
+        p.style.fontFamily = 'Calibri, sans-serif';
+        p.style.fontSize = '10px';
+    });
+
+    // Add inline styles to all divs
+    doc.querySelectorAll('div').forEach((div) => {
+        div.style.fontFamily = 'Calibri, sans-serif';
+        div.style.fontSize = '10px';
+    });
+
+    return doc.body.innerHTML;
+}
+
+function closeAllModals() {
+    const languages = ['fr', 'en', 'de', 'lu']; // Lowercase language codes, adjust as needed
+    languages.forEach(lang => {
+        const modal = document.getElementById(`template-content-modal-${lang}`);
+        if (modal) {
+            modal.style.display = "none";
+        }
+    });
+}
 
 
-document.addEventListener('DOMContentLoaded', function() {
+function createTemplateInfoDiv(template) {
+    // Create a container div for the template information
+    const infoDiv = document.createElement('div');
+    infoDiv.classList.add('template-info');
+
+    // Create a div for the grid layout
+    const gridDiv = document.createElement('div');
+    gridDiv.classList.add('template-info-grid');
+    infoDiv.appendChild(gridDiv);
+
+    // Populate the grid with the template information
+    const fields = ['id', 'name', 'created', 'lastModified', 'status', 'tags', 'usageCount'];
+    fields.forEach(field => {
+        const fieldDiv = document.createElement('div');
+        fieldDiv.classList.add(`template-info-${field}`);
+
+        const fieldName = document.createElement('span');
+        fieldName.classList.add('template-info-field-name');
+        fieldName.textContent = `${field}: `;
+
+        const fieldValue = document.createElement('span');
+        fieldValue.classList.add('template-info-field-value');
+        fieldValue.textContent = template[field] || 'N/A';
+
+        fieldDiv.appendChild(fieldName);
+        fieldDiv.appendChild(fieldValue);
+        gridDiv.appendChild(fieldDiv);
+    });
+
+    // Add a div for URLs below the grid layout
+    const urlsDiv = document.createElement('div');
+    urlsDiv.classList.add('template-info-urls');
+    const urlsLabel = document.createElement('span');
+    urlsLabel.classList.add('template-info-field-name');
+    urlsLabel.textContent = 'URLs: ';
+    urlsDiv.appendChild(urlsLabel);
+
+    if (template.urls && template.urls.length > 0) {
+        const urlsList = document.createElement('ul');
+        template.urls.forEach(url => {
+            const urlItem = document.createElement('li');
+            urlItem.textContent = url;
+            urlsList.appendChild(urlItem);
+        });
+        urlsDiv.appendChild(urlsList);
+    } else {
+        const noUrls = document.createElement('span');
+        noUrls.classList.add('template-info-field-value');
+        noUrls.textContent = 'N/A';
+        urlsDiv.appendChild(noUrls);
+    }
+
+    infoDiv.appendChild(urlsDiv);
+
+    return infoDiv;
+}
+
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
     // Initialize dark mode if it is enabled in chrome.storage.local
-    chrome.storage.local.get("darkModeActive", function(data) {
+    chrome.storage.local.get("darkModeActive", function (data) {
         if (data.darkModeActive) {
             document.body.classList.add('dark-mode');
         } else {
@@ -27,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function displayTemplates() {
     console.log('displaying templates');
-    chrome.storage.local.get('templates', function(result) {
+    chrome.storage.local.get('templates', function (result) {
         let templates = result.templates || [];
 
         // Filtering based on active tags
@@ -36,17 +124,16 @@ function displayTemplates() {
             return activeTags.every(tag => (template.tags || []).includes(tag));
         });
 
-        console.log("Templates fetched:", templates); // Check the templates fetched
         const missingData = countAndPercentageMissingContent(templates);
-        console.log("Missing data:", missingData); // Check the missing data calculated
         displayMissingTemplatesCountsAndPercentages(missingData);
-       
+
         const templateTable = document.getElementById('template-table');
         let templateList;
         if (templateTable) {
             templateList = templateTable.querySelector('tbody');
         }
-        
+
+        // Clear existing table rows
         if (templateList) {
             templateList.innerHTML = '';
         }
@@ -61,10 +148,10 @@ function displayTemplates() {
         };
 
         templates.forEach(template => {
+            console.log(template)
             const row = createTemplateRow(template, languageCounts, templates);
             templateList.appendChild(row);
         });
-        
 
         updateLanguageCounts(languageCounts);
     });
@@ -79,66 +166,100 @@ function updateCompletionPercentage(templates) {
 
 function createTemplateRow(template, languageCounts, templates) {
     const row = document.createElement('tr');
-    
 
-    if (template.tags && template.tags.length > 0) {
-        // row.className = `tr-${template.tags[0].toLowerCase()}`;
-const tagCell = createTableCell(row, template.tags.join(", "));
-if (template.tags && template.tags.length > 0) {
-    tagCell.className = `td-${template.tags[0].toLowerCase()}`;
-}
-    }
+    // Create cell for Tags
+    const tags = template.tags || [];
+    const tagStr = tags.join(', ');
 
-    createTableCell(row, template.id);
-    createTableCell(row, template.name);
-    const languageFlagsCell = setupFlagIcons(template, languageCounts);
-    row.appendChild(languageFlagsCell);
-    createTableCell(row, template.urls[0], true);
+    // Create the table cell
+    const tagCell = createTableCell(row, tagStr || 'N/A');
+
+    // Add a class to the cell based on the tag
+    tags.forEach(tag => {
+        // Convert the tag to lowercase and replace spaces with hyphens
+        const tagClass = tag.toLowerCase().replace(/ /g, '-');
+
+        // Add the class to the cell
+        tagCell.classList.add(`td-${tagClass}`);
+    });
+
+
+    createTableCell(row, template.id || 'N/A');
+    createTableCell(row, template.name || 'N/A');
+
+    const languageTable = document.createElement('table');
+    const languageBody = setupFlagIcons(template, languageCounts);
+    languageTable.appendChild(languageBody);
+    const languageCell = document.createElement('td');
+    languageCell.appendChild(languageTable);
+    row.appendChild(languageCell);
 
     createTableCell(row, new Date(template.created).toLocaleDateString());
     createTableCell(row, new Date(template.lastModified).toLocaleDateString());
-    createTableCell(row, template.usageCount);
-    createTableCell(row, template.status);
+    createTableCell(row, template.usageCount || '0');
+    createTableCell(row, template.status || 'N/A');
 
     const actionCell = document.createElement('td');
-    ['Edit', 'Show', 'Delete'].forEach(action => {
+    ['Edit', 'Delete'].forEach((action, index) => {
         const btn = document.createElement('button');
         btn.textContent = action;
-        btn.classList.add('extension-button'); // Add the class to the button
-        btn.addEventListener('click', function() {
-            if (action === 'Edit') {
-                sessionStorage.setItem('editingTemplate', JSON.stringify(template));
-                window.location.href = 'details.html';
-            } else if (action === 'Show') {
-                ['FR', 'EN', 'DE', 'LU'].forEach(lang => {
-                    if (template.contents[lang] && template.contents[lang].data) {
-                        const modal = document.getElementById(`template-content-modal-${lang.toLowerCase()}`);
-                        const modalContentContainer = document.getElementById(`template-content-container-${lang.toLowerCase()}`);
-                        modalContentContainer.innerHTML = template.contents[lang].data;
-                        
-                        // Set initial values for transition
-                        modal.style.opacity = '0';
-                        modal.style.transform = 'translateY(-50px)';
-                        modal.style.display = 'block';
-                        
-                        // Apply final values after a short delay
-                        setTimeout(() => {
-                            modal.style.opacity = '1';
-                            modal.style.transform = 'translateY(0)';
-                        }, 10);
-                    }
-                });
-            } else if (action === 'Delete') {
-                deleteTemplate(templates.indexOf(template));
-            }
-        });
+        btn.classList.add('extension-button');
+        if (action === 'Delete') {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation(); // Stop the event from triggering the row's click event
+                deleteTemplate(templates.indexOf(template)); // Assuming that the index of the template corresponds to its position in the array
+            });
+        }
         actionCell.appendChild(btn);
     });
+
     row.appendChild(actionCell);
+
+    row.addEventListener('click', function () {
+        // Close any open modals first
+        closeAllModals();
+
+        if (template.contents) {
+            Object.keys(template.contents).forEach(lang => {
+                // This line will add the inline styles to the HTML content
+                const styledContent = addInlineStylesToHTML(template.contents[lang].data);
+
+
+                // Open the modal for the selected language
+                const modal = document.getElementById(`template-content-modal-${lang.toLowerCase()}`);
+                const contentContainer = document.getElementById(`template-content-container-${lang.toLowerCase()}`);
+
+                // Create a "Copy to Clipboard" button
+                const copyButton = document.createElement('button');
+                copyButton.textContent = 'Copy to Clipboard';
+                copyButton.addEventListener('click', function () {
+                    const clipboardItemInput = new ClipboardItem({ "text/html": new Blob([styledContent], { type: "text/html" }) });
+                    navigator.clipboard.write([clipboardItemInput])
+                        .then(function () {
+                            alert('Content copied to clipboard.');
+                        })
+                        .catch(function (err) {
+                            alert('Unable to copy content: ' + err);
+                        });
+                });
+
+                // Add the "Copy to Clipboard" button below the information div
+                modal.querySelector('.modal-content').insertBefore(copyButton, contentContainer);
+
+                // Add the template information div at the top of the modal
+                const templateInfoDiv = createTemplateInfoDiv(template);
+                modal.querySelector('.modal-content').insertBefore(templateInfoDiv, contentContainer);
+
+
+                // Then add the actual template content (now use styledContent)
+                contentContainer.innerHTML = styledContent;
+                modal.style.display = "block";  // open the modal
+            });
+        }
+    });
+
     return row;
 }
-
-
 
 function updateLanguageCounts(languageCounts) {
     document.getElementById('count-fr').textContent = languageCounts['FR'];
@@ -150,7 +271,7 @@ function updateLanguageCounts(languageCounts) {
 function deleteTemplate(index) {
     const userConfirmation = confirm("Are you sure you want to delete this template?");
     if (userConfirmation) {
-        chrome.storage.local.get('templates', function(result) {
+        chrome.storage.local.get('templates', function (result) {
             let templates = result.templates;
             templates.splice(index, 1);
             chrome.storage.local.set({ templates: templates }, displayTemplates);
@@ -187,7 +308,7 @@ function countAndPercentageMissingContent(templates) {
 }
 
 // Listen for changes in chrome.storage to update the dark mode
-chrome.storage.onChanged.addListener(function(changes, namespace) {
+chrome.storage.onChanged.addListener(function (changes, namespace) {
     if (namespace === 'local' && changes.darkModeActive) {
         if (changes.darkModeActive.newValue) {
             document.body.classList.add('dark-mode');

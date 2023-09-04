@@ -14,29 +14,43 @@ if (document.querySelector('.storage-monitoring')) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-  const darkmodeLink = document.getElementById("darkmode-link");
-  const darkmodeToggle = document.getElementById("darkmode-toggle");
+    const darkmodeLink = document.getElementById("darkmode-link");
+    const darkmodeToggle = document.getElementById("darkmode-toggle");
+    
+    // Function to set dark mode
+    function setDarkMode(isActive) {
+        if (isActive) {
+            darkmodeLink.removeAttribute("disabled");
+            document.body.setAttribute('data-theme', 'dark');
+        } else {
+            darkmodeLink.setAttribute("disabled", "true");
+            document.body.removeAttribute('data-theme');
+        }
+    }
+    
+    // Check initial mode using chrome.storage.local
+    chrome.storage.local.get("darkModeActive", function(data) {
+        setDarkMode(data.darkModeActive);
+    });
   
-  // Check initial mode using chrome.storage.local
-  chrome.storage.local.get("darkModeActive", function(data) {
-      if (data.darkModeActive) {
-          darkmodeLink.removeAttribute("disabled");
-      } else {
-          darkmodeLink.setAttribute("disabled", "true");
-      }
-  });
+    // Toggle dark mode
+    darkmodeToggle.addEventListener("click", function() {
+        chrome.storage.local.get("darkModeActive", function(data) {
+            const newStatus = !data.darkModeActive;
+            chrome.storage.local.set({"darkModeActive": newStatus}, function() {
+                setDarkMode(newStatus);
+            });
+        });
+    });
 
-  // Toggle dark mode
-  darkmodeToggle.addEventListener("click", function() {
-      chrome.storage.local.get("darkModeActive", function(data) {
-          const newStatus = !data.darkModeActive;
-          chrome.storage.local.set({"darkModeActive": newStatus}, function() {
-              if (newStatus) {
-                  darkmodeLink.removeAttribute("disabled");
-              } else {
-                  darkmodeLink.setAttribute("disabled", "true");
-              }
-          });
-      });
-  });
+    const tagButtons = document.querySelectorAll('.tag-button');
+    tagButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Toggle 'active' class
+            this.classList.toggle('active');
+            
+            // Re-display templates based on new set of active tags
+            displayTemplates();
+        });
+    });
 });

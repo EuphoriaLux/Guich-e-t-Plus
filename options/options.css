@@ -6,12 +6,12 @@
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 20px;
 }
+
 
 th, td {
   padding: 8px;
-  text-align: left;
+  text-align: center;
   border-bottom: 1px solid #ddd;
 }
 
@@ -25,6 +25,28 @@ table tr:hover {
 
 /* Button Styles */
 
+.template-info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.template-info-field-name {
+  font-weight: bold;
+}
+
+.template-info-field-value ul {
+  list-style-type: disc;
+  margin-left: 10px;
+}
+
+.template-info { 
+  padding-top: 20px;
+}
+
 #template-table button, .show-more {
   padding: 5px 10px;
   border: none;
@@ -37,6 +59,26 @@ table tr:hover {
 
 #template-table button:hover, .show-more:hover {
   background-color: #0056b3;
+}
+
+/* Nested Table Styles */
+table table {
+  border: none;
+  width: 100%;
+
+}
+
+table table th,
+table table td {
+  border: none;
+  padding: 4px;
+  text-align: center;
+}
+
+/* Flag Icons */
+.language-flag {
+  width: 20px;
+  height: auto;
 }
 
 
@@ -176,8 +218,7 @@ table tr:hover {
   overflow-y: auto;
   max-height: 80vh;
   transition: opacity 0.3s, transform 0.3s;
-  transform: translateY(-50px);
-  opacity: 0;
+  transform: none;
 }
 
 .modal-content {
@@ -217,16 +258,6 @@ table tr:hover {
   margin-right: 5px;
 }
 
-.modal-content {
-  position: relative;
-  background-color: #fefefe;
-  margin: auto;
-  padding: 10px 10px 10px 10px;
-  border: 1px solid #888;
-  width: 95%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 5px;
-}
 
 .modal-flag {
   width: 25px;
@@ -239,6 +270,14 @@ table tr:hover {
   gap: 10px;
   margin-bottom: 20px;
 }
+
+
+.missing-content {
+  border: 2px solid red;
+  opacity: 0.5;
+}
+
+
 
 .tag-button[data-tag="enseignement-formation"] {
   background-color: #E57373;

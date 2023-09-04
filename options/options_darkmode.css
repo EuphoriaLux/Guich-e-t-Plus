@@ -1,26 +1,80 @@
+/* Keyframes */
+@keyframes gradient-bg {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+:root {
+    /* Light mode variables */
+    --background-color: #ffffff;
+    --text-color: #333;
+    --link-color: #007BFF;
+    --button-bg-color: #007BFF;
+    --button-text-color: #FFF;
+    --table-header-bg: #f2f2f2;
+    --table-border: #ddd;
+}
+
+[data-theme='dark'] div {
+    /* Dark mode variables, using colors from darkmode.css */
+    --background-color: #1E1E1E;
+    --text-color: #BB86FC;
+    --link-color: #9A56D8;
+    --button-bg-color: rgba(0, 0, 0, 0.2);
+    --button-text-color: #BB86FC;
+    /* Dark mode gradient background */
+    animation: gradient-bg 15s ease infinite;
+    background: linear-gradient(270deg, rgb(20, 30, 48), rgb(36, 59, 85), rgb(20, 30, 48));
+    background-size: 200% 200%;
+    border-radius: 8px;
+}
+
+
 /* Header, Nav, and Footer */
 header, nav, footer {
-    background-color: #333;
-    color: #fff;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 /* Links */
 a {
-    color: #9fa8da;
+    color: #9A56D8;
 }
+
+div {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    padding: 0.5em;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+
 
 /* Buttons */
 button {
-    background-color: #555;
-    color: #fff;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #BB86FC;
     border: none;
 }
 
-/* Sections and Containers */
-.content-wrapper, .sections-container, section {
-    background-color: #333;
+/* Dark Mode - General */
+body {
+    animation: gradient-bg 15s ease infinite;
+    background: linear-gradient(270deg, rgb(20, 30, 48), rgb(36, 59, 85), rgb(20, 30, 48));
+    background-image: linear-gradient(rgb(20, 30, 48), rgb(36, 59, 85));
+    background-size: 200% 200%;
+    border-radius: 8px;
     color: #fff;
 }
+
 
 /* Progress Bar */
 progress {
@@ -51,9 +105,6 @@ th {
     color: #fff;
 }
 
-/* Existing Styles */
-/* ... */
-
 /* New Styles for .completion-section, #completion-progress, and #completion-percentage */
 .completion-section {
     background-color: #333;
@@ -67,3 +118,6 @@ th {
 #completion-percentage {
     color: #fff;
 }
+
+
+

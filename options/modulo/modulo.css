@@ -1,0 +1,91 @@
+/* Typographical elements */
+h2 {
+  font-size: 1.3em;
+  margin-bottom: 1em;
+  color: #444; /* darker shade for better contrast */
+}
+
+/* Form elements */
+input[type="text"], input[type="number"], select {
+  padding: 3px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 7px;
+  font-size: 0.95em;
+}
+
+/* Buttons */
+button, input[type="button"], #toggleScriptBtn {
+  background-color: #007BFF;
+  color: white;
+  padding: 3px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.95em;
+  transition: background-color 0.3s;
+}
+
+/* Utility and miscellaneous classes */
+.feedback, .valid-feedback {
+  font-size: 0.8em;
+  margin-top: 0.5em;
+  display: block;
+}
+
+.feedback {
+  color: red;
+}
+
+.valid-feedback {
+  color: green;
+}
+
+.validated-fieldset {
+  border: 2px solid green;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+/* IDs */
+#validationMessage {
+  color: #333366;
+  background-color: #e0e0e0;
+  padding: 0.5em;
+  border-radius: 5px;
+  margin-top: 0.5em;
+  text-align: center;
+  display: none;
+}
+
+#helpdeskScript {
+  background-color: #f9f9f9; /* Arrière-plan légèrement grisé pour le contraste */
+  border: 1px solid #e0e0e0; /* Une bordure subtile */
+  padding: 1em; /* Un peu d'espacement à l'intérieur du div */
+  margin-bottom: 2em; /* Espacement sous le script pour le séparer du reste du contenu */
+  border-radius: 5px; /* Coins arrondis pour une apparence douce */
+}
+
+/* State-based styles */
+nav a:hover, header a:hover, footer a:hover {
+  background-color: #FFD700;
+  color: #333;
+}
+
+button:hover, input[type="button"]:hover, #toggleScriptBtn:hover {
+  background-color: #0056b3;
+}
+
+input[type="text"]:hover, input[type="number"]:hover, select:hover {
+  border-color: #ccc;
+}
+
+input[type="text"]:focus, input[type="number"]:focus, select:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modulo Tool</title>
+    <link href="modulo.css" rel="stylesheet" />
+    <link href="../static/base.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header>
+        <h1>Modulo Tool</h1>
+        <nav>
+            <ul>
+                <li><a href="../options.html">Home</a></li>
+                <li><a href="../storageMonitoring/storageMonitoring.html">Storage Monitoring</a></li>
+                <li><a href="../addTemplate/addTemplate.html">Add Template</a></li>
+                <li><a href="#">Modulo 97 Tool</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content-wrapper">
+        <div>
+            <p>Entrez les informations nécessaires pour la validation et l'analyse.</p>
+            <button id="toggleScriptBtn">Afficher/Masquer le Script</button><button
+                id="toggleTutorialBtn">Afficher/Masquer
+                le Tutoriel</button>
+            <div id="helpdeskScript" style="display: none;">
+                <h2>Script Téléphonique pour l'Agent Helpdesk</h2>
+                <p><strong>Agent Helpdesk :</strong> Bonjour, vous êtes bien sur la ligne d'assistance de [Nom de votre
+                    entreprise]. Mon nom est [Nom de l'agent]. Comment puis-je vous aider aujourd'hui?</p>
+                <p><strong>Client :</strong> [Exprime son problème ou sa question concernant le matching.]</p>
+                <p><strong>Agent Helpdesk :</strong> Je vois, vous avez des questions concernant notre processus de
+                    matching. Laissez-moi vous l'expliquer.</p>
+                <p><strong>Agent Helpdesk :</strong> Le matching est une vérification qui compare les informations que
+                    vous
+                    fournissez avec nos données pour confirmer leur exactitude. Par exemple, votre Matricule, SSN, ainsi
+                    que
+                    votre Nom et Prénom via votre Carte ID sont tous vérifiés. Nous utilisons également une méthode
+                    appelée
+                    Modulo 97 pour assurer la précision des numéros que vous nous donnez.</p>
+                <p><strong>Agent Helpdesk :</strong> Notre priorité est de garantir la sécurité et la confidentialité de
+                    vos
+                    informations. Le processus de matching est donc essentiel pour s'assurer que seules les personnes
+                    autorisées accèdent aux informations pertinentes.</p>
+                <p><strong>Client :</strong> [Réponse ou questions supplémentaires.]</p>
+                <p><strong>Agent Helpdesk :</strong> [Répond à d'autres questions ou préoccupations.] J'espère avoir pu
+                    éclaircir le processus pour vous. Avez-vous d'autres questions à ce sujet ou puis-je vous aider
+                    autrement?</p>
+            </div>
+            <div id="tutorialSection" style="display: none;">
+                <h2>🚀 Lancement du Modulo Tool 🚀</h2>
+                <p><strong>Étape 1: Accueil chaleureux!</strong> 🎉<br />
+                    Ouvrez l'outil et admirez la magnifique interface qui vous attend. Respirez profondément et
+                    préparez-vous à entrer dans le monde fascinant de la validation!</p>
+                <p><strong>Étape 2: Le script du helpdesk à votre portée!</strong> 🎤<br />
+                    Vous voyez ce bouton brillant qui dit "Afficher/Masquer le Script"? Cliquez dessus pour révéler un
+                    script magique qui vous guidera à travers les interactions téléphoniques.<br> Plus besoin de
+                    fouiller
+                    dans vos notes ou d'oublier vos répliques!</p>
+                <p><strong>Étape 3: Saisissez vos infos!</strong> 📝<br />
+                    Entrez votre RNPP, LuxTrust, SSN, et matricule dans les champs prévus à cet effet. Si vous faites
+                    une
+                    erreur, ne vous inquiétez pas! Notre outil vous le fera savoir avec amour (et une petite touche de
+                    rouge
+                    😉).</p>
+                <p><strong>Étape 4: Laissez la magie opérer!</strong> ✨<br />
+                    Une fois que vous avez entré vos informations, appuyez sur le bouton "Valider les informations".
+                    Asseyez-vous et détendez-vous pendant que notre formule secrète (Modulo 97) fait tout le travail
+                    difficile pour vous!</p>
+                <p><strong>Étape 5: Découvrez vos résultats!</strong> 🕵️‍♂️<br />
+                    Une fois la validation terminée, un résumé éblouissant de vos données s'affichera. Vous pouvez même
+                    le
+                    copier dans le presse-papiers en cliquant sur "Copy to Clipboard". Montrez-le à vos amis, à votre
+                    famille, ou gardez-le pour vous - c'est votre moment de gloire!</p>
+                <p><strong>Étape 6: Fin de la magie (pour le moment)!</strong> 🎩<br />
+                    Félicitations! Vous avez maîtrisé l'outil "Modulo Tool". Chaque fois que vous avez besoin de valider
+                    des
+                    informations, vous savez maintenant où aller.</p>
+            </div>
+            <form id="validationForm">
+                <fieldset>
+                    <legend>Etape 1</legend>
+                    <div>
+                        <label for="matricule">Matricule (13 chiffres):</label>
+                    </div>
+                    <div>
+                        <input id="matricule" name="matricule" placeholder="Entrez le matricule ici" type="text" />
+                        <span class="feedback" id="matriculeFeedback"></span> <span id="birthdateDisplay"></span>
+                    </div>
+                </fieldset>
+
+
+                <fieldset>
+                    <legend>Etape 2</legend>
+                    <div>
+                        <label for="rnpp">RNPP</label>
+                        <p>Seules les lettres de l'alphabet européen connu sont prises en charge.</p>
+                    </div>
+                    <div>
+                        <label for="rnppName">Nom:</label>
+                        <input id="rnppName" name="rnppName" placeholder="Entrez le Nom ici" type="text" />
+                    </div>
+                    <div>
+                        <label for="rnppPrenom">Prénom:</label>
+                        <input id="rnppPrenom" name="rnppPrenom" placeholder="Entrez le prénom ici" type="text" />
+                    </div>
+
+                </fieldset>
+
+                
+                <fieldset>
+                    <legend>Etape 3</legend>
+                    <div>
+                        <label for="rnpp">Information Luxtrust:</label>
+                    </div>
+                    <div>
+                        <label for="cardIdName">Nom:</label>
+                        <input id="cardIdName" name="cardIdName" placeholder="Entrez le Nom ici" type="text" />
+                    </div>
+                    <div>
+                        <label for="cardIdPrenom">Prénom:</label>
+                        <input id="cardIdPrenom" name="cardIdPrenom" placeholder="Entrez le prénom ici" type="text" />
+                        <span class="feedback" id="cardIdFeedback"></span>
+                    </div>
+                    <div>
+                        <span class="feedback" id="rnppFeedback"></span>
+                    </div>
+
+                    <div>
+                        <label for="ssn">SSN (20 chiffres):</label>
+                        <input id="ssn" name="ssn" placeholder="Entrez le SSN ici" type="text" />
+                        <div>
+                            <strong>SSN Digits:</strong> <span id="ssnDigitsPlaceholder">---</span>
+                        </div>
+                        <div>
+                            <strong>Calculated Modulo 97:</strong> <span id="moduloPlaceholder">---</span>
+                        </div>
+                        <div id="ssnComparison" style="margin-bottom: 10px;"></div>
+                        <span class="feedback" id="ssnFeedback"></span>
+                    </div>
+                </fieldset>
+                <div id="summaryData" style="display:none; border:1px solid #ccc; padding:10px; margin-top:20px;">
+                    <strong>RNPP:</strong><br />
+                    NOM: <span id="summaryRnppNom"></span> PRENOM: <span id="summaryRnppPrenom"></span><br />
+                    <strong>LuxTrust:</strong><br />
+                    NOM: <span id="summaryLuxtrustNom"></span> PRENOM: <span id="summaryLuxtrustPrenom"></span><br />
+                    SSN: <span id="summarySSN"></span><br />
+                    Matricule: <span id="summaryMatricule"></span><br />
+                    Note:<br />
+                    Modulo97: <span id="summaryModulo97"></span><br />
+                    <button onclick="copyToClipboard()">Copy to Clipboard</button>
+                </div>
+                <input id="validateButton" type="button" value="Valider les informations" />
+
+                <div id="validationMessage"></div>
+            </form>
+            <div id="moduloResult"></div>
+        </div>
+    </div>
+    <footer>
+        <a href="details.html">Go to Details Page</a>
+        <p>&copy; 2023 Power-Up 🕊️. All Rights Reserved.</p>
+        <!-- You can add other footer-related content, such as contact information, additional links, etc., here. -->
+    </footer>
+
+
+    <script src="enhanced_script.js"></script>
+</body>
+
+</html>

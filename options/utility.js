@@ -1,55 +1,58 @@
-function createTableCell(row, content, isLink = false) {
+function createTableCell(row, content, isHTML) {
     const cell = document.createElement('td');
-    if (isLink) {
-        const link = document.createElement('a');
-        link.href = content;
-        link.target = "_blank"; // To open in a new tab
-        link.textContent = content;
-        cell.appendChild(link);
+    if (isHTML) {
+        cell.innerHTML = content;
     } else {
         cell.textContent = content;
     }
     row.appendChild(cell);
-    return cell;
+    return cell;  // Return the created cell
 }
 
+
+
 function setupFlagIcons(template, languageCounts) {
-    const languageCell = document.createElement('td');
+    const languageBody = document.createElement('tbody');
 
     ['FR', 'EN', 'DE', 'LU'].forEach(lang => {
-        const flagIcon = document.createElement('img');
-        flagIcon.className = 'flag-icon';
-        flagIcon.src = chrome.runtime.getURL(`options/media/png/${lang}.png`);
-        flagIcon.alt = lang;
-        flagIcon.title = lang;
+        const langRow = document.createElement('tr');
 
-        if (!template.contents[lang] || !template.contents[lang].data) {
-            flagIcon.style.opacity = '0.2';
-            // Add event listener for non-existing language content
-            flagIcon.addEventListener('click', function() {
-                // Store the template and selected language in the session for retrieval in editTemplate.html
-                sessionStorage.setItem('editingTemplate', JSON.stringify(template));
-                sessionStorage.setItem('editingLanguage', lang);
-                window.location.href = 'editTemplate/editTemplate.html';
-            });
+        const flagIcon = document.createElement('img');
+        flagIcon.className = 'language-flag';
+        flagIcon.src = `./media/png/${lang}.png`;
+        flagIcon.alt = `${lang} Flag`;
+
+        flagIcon.addEventListener('click', function() {
+            sessionStorage.setItem('editingTemplate', JSON.stringify(template));
+            sessionStorage.setItem('editingLanguage', lang);
+            window.open('./addTemplate/addTemplate.html', '_blank');  // Open in a new tab
+        });
+        
+
+        let urlCellContent;
+        if (template.contents && template.contents[lang] && template.contents[lang].sourceURL) {
+            urlCellContent = `<a href="${template.contents[lang].sourceURL}" target="_blank">${template.contents[lang].sourceURL}</a>`;
         } else {
-            // Add event listener for existing language content
-            flagIcon.addEventListener('click', function() {
-                // Store the template and selected language in the session for retrieval in editTemplate.html
-                sessionStorage.setItem('editingTemplate', JSON.stringify(template));
-                sessionStorage.setItem('editingLanguage', lang);
-                window.location.href = 'editTemplate/editTemplate.html';
-            });
-            languageCounts[lang]++;
+            urlCellContent = "Content is missing";
+            flagIcon.classList.add('missing-content');
         }
-        languageCell.appendChild(flagIcon);
+
+        const flagCell = document.createElement('td');
+        flagCell.appendChild(flagIcon);
+        langRow.appendChild(flagCell);
+
+        createTableCell(langRow, lang);
+        createTableCell(langRow, urlCellContent, true);
+
+        languageCounts[lang] = (languageCounts[lang] || 0) + 1;
+
+        languageBody.appendChild(langRow);
     });
 
-    return languageCell;
+    return languageBody;
 }
 
 function calculateCompletionPercentage(templates) {
-    console.log("calculateCompletionPercentage called");
     if (!templates || templates.length === 0) return 0;  // Return 0% if no templates exist
 
     const totalPossibleCompletionPoints = templates.length * 4;
@@ -62,10 +65,6 @@ function calculateCompletionPercentage(templates) {
             }
         });
     });
-
-    console.log("Total Possible:", totalPossibleCompletionPoints);
-    console.log("Current Completion:", currentCompletionPoints);
-
     return (currentCompletionPoints / totalPossibleCompletionPoints) * 100;
 }
 

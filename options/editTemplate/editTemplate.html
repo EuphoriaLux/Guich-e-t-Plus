@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Edit a Template</title>
+    <link href="editTemplate.css" rel="stylesheet" />
+    <link href="../static/base.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>Template Management System (TMS) - Alpha </h1>
+        <nav>
+            <ul>
+                <li><a href="../options.html">Home</a></li>
+                <li><a href="../storageMonitoring/storageMonitoring.html">Storage Monitoring</a></li>
+                <li><a href="../addTemplate/addTemplate.html">Add Template</a></li>
+                <li><a href="../modulo/modulo.html">Modulo 97 Tool</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content-wrapper">
+        <h2>Edit Template</h2>
+        <form id="edit-template-form">
+            <label for="url">URL:</label>
+            <input type="url" id="url" placeholder="Template URL" readonly>
+            <label for="templateName">Template Name:</label>
+            <input type="text" id="templateName" placeholder="Template Name" readonly>
+            <label for="templateContent">Content for Selected Language:</label>
+            <div id="templateContent" contenteditable="true" style="border: 1px solid #ccc; padding: 10px; min-height: 100px; resize: vertical; overflow: auto;" placeholder="Enter content for the selected language..."></div>
+            <label for="selectedLanguage">Language:</label>
+            <div id="flag-container">
+                <img src="..\media\png\FR.png" alt="French" data-language="FR" class="language-flag">
+                <img src="..\media\png\EN.png" alt="English" data-language="EN" class="language-flag">
+
+                <img src="..\media\png\DE.png" alt="German" data-language="DE" class="language-flag">
+                <img src="..\media\png\LU.png" alt="Luxembourgish" data-language="LU" class="language-flag">
+            </div>
+            <input type="hidden" id="selectedLanguage">
+            <button type="submit" id="saveChanges">Save Changes</button>
+        </form>
+    </div>
+    <footer>
+        <a href="details.html">Go to Details Page</a>
+        <p>© 2023 My Extension. All Rights Reserved.</p>
+    </footer>
+    <script src="editTemplateMain.js" type="module"></script>
+</body>
+</html>

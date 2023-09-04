@@ -1,0 +1,72 @@
+/* Component-specific styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form button {
+    padding: 10px 15px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+/* Utility classes */
+.language-flag {
+    cursor: pointer;
+    opacity: 0.5;
+    margin: 0 5px;
+    height: 30px;
+}
+
+#flag-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+/* IDs */
+#template-content {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    resize: vertical;
+    transition: border-color 0.2s;
+}
+
+/* State-based styles */
+nav a:hover, header a:hover, footer a:hover {
+    background-color: #FFD700;
+    color: #333;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+.language-flag.selected {
+    opacity: 1;
+    border: 2px solid blue;
+}
+
+#templateContent:focus {
+    border-color: #007BFF;
+    outline: none;
+}
+
+/*specific styles*/
+form input[type="text"], form input[type="url"], form div[contenteditable="true"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 100%;
+}

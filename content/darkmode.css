@@ -127,10 +127,16 @@ body.dark-mode .page-headernav .nav-section--primary .nav ul a {
 }
 
 /* Your Custom Styles */
-.page-headernav .nav-section--primary .nav .nav-item--citizen .subnav-item--active > a {
+body.dark-mode .page-headernav .nav-section--primary .nav .nav-item--citizen .subnav-item--active > a {
     background: blueviolet !important;
     color: #fff;
     text-decoration: none;
+}
+
+/* Hover effect */
+body.dark-mode .page-headernav .nav-section--primary .nav .nav-item--citizen a:hover {
+    background: darkblue !important;  /* Change background color when hovered */
+    color: yellow !important;  /* Change text color when hovered */
 }
 
 /* Dark Mode - Page Content */

@@ -2,15 +2,18 @@
 body, html {
     height: 100%;
     margin: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 body {
     display: flex;
     flex-direction: column;
+    font-family: 'Calibri';
 }
 
 div {
-    background-color: #ffffff;
+    background-color: var(--background-color);
     padding: 0.5em;
     margin-bottom: 2px;
     border-radius: 5px;
@@ -18,8 +21,8 @@ div {
 
 /* Layout elements */
 header, footer {
-    background-color: #333;
-    color: #FFF;
+    background-color: var(--background-color);
+    color: var(--text-color);
     padding: 15px 20px;
     text-align: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
@@ -51,7 +54,7 @@ nav li {
 }
 
 nav a, header a, footer a {
-    color: #FFD700;
+    color: var(--link-color);
     text-decoration: none;
     padding: 5px 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
@@ -73,8 +76,8 @@ footer p {
 }
 
 nav a:hover {
-    background-color: #FFD700;
-    color: #333;
+    background-color: var(--link-color);
+    color: var(--text-color);
 }
   
 label {

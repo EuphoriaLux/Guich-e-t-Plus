@@ -62,7 +62,7 @@ const geoportailCheckInterval = setInterval(() => {
                 toggleButton.textContent = 'Show More';
                 newDiv.appendChild(toggleButton);
 
-                toggleButton.addEventListener('click', function() {
+                toggleButton.addEventListener('click', function () {
                     listItems.forEach(item => {
                         if (item.classList.contains('hidden')) {
                             if (item.classList.contains('show')) {
@@ -78,7 +78,7 @@ const geoportailCheckInterval = setInterval(() => {
 
                 // Add a click event listener for each list item
                 listItems.forEach((item) => {
-                    item.addEventListener('click', function() {
+                    item.addEventListener('click', function () {
                         const innerDiv = item.querySelector('.vcard');
                         if (innerDiv) {
                             const isCollapsed = innerDiv.classList.toggle('collapsed');
@@ -95,11 +95,6 @@ const geoportailCheckInterval = setInterval(() => {
     }
 }, 1000);
 
-// ... (rest of your existing code)
-
-
-// ... (rest of your existing code)
-
 
 console.log("Before async function");
 
@@ -109,7 +104,7 @@ console.log("Before async function");
     // Add the 'dark-mode' class to the body by default
     document.body.classList.add('dark-mode');
     initializeDarkMode();  // Add this line here
-    
+
     const mainElement = document.getElementById("main");
     console.log("#main exists:", Boolean(mainElement));
     if (!mainElement) {
@@ -123,44 +118,54 @@ console.log("Before async function");
 
     const buttonMenuContainer = createAndAppendChild(toolContainer, 'div', 'button-menu-container');
 
-    const exampleButton = createAndAppendChild(buttonMenuContainer, 'button', 'example-button', 'Black-Mode - BETA in Progress');
-    exampleButton.className = "extension-button";
+    const toggleDarkModeButton = createAndAppendChild(buttonMenuContainer, 'button', 'toggle-dark-mode-button', 'Black-Mode - BETA in Progress');
+    toggleDarkModeButton.className = "extension-button";
     for (let i = 0; i < 4; i++) {
         const span = document.createElement('span');
-        exampleButton.appendChild(span);
+        toggleDarkModeButton.appendChild(span); // Changed from exampleButton.appendChild(span)
     }
 
-    const exampleButton2 = createAndAppendChild(buttonMenuContainer, 'button', 'example-button2', 'Standard Template Builder');
-    exampleButton2.className = "extension-button";
+    const toggleStandardTemplateButton = createAndAppendChild(buttonMenuContainer, 'button', 'toggle-standard-template-button', 'Standard Template Builder');
+    toggleStandardTemplateButton.className = "extension-button";
     for (let i = 0; i < 4; i++) {
         const span = document.createElement('span');
-        exampleButton2.appendChild(span);
+        toggleStandardTemplateButton.appendChild(span); // Changed from exampleButton2.appendChild(span)
     }
+
+    const openOptionsButton = createAndAppendChild(buttonMenuContainer, 'button', 'open-options-button', 'Open Options');
+    openOptionsButton.className = "extension-button";
+
 
     const standardTemplateContainer = await buildStandardTemplate(toolContainer);
 
     mainElement.innerHTML = '';
     mainElement.appendChild(flexContainer);
 
-    exampleButton.addEventListener("click", function () {
+    toggleDarkModeButton.addEventListener("click", function () { // Changed from exampleButton.addEventListener
         const isDarkModeActive = document.body.classList.toggle('dark-mode');
-        chrome.storage.local.set({'darkModeActive': isDarkModeActive});
+        chrome.storage.local.set({ 'darkModeActive': isDarkModeActive });
     });
-    
-    
 
-    exampleButton2.addEventListener("click", function () {
+
+    toggleStandardTemplateButton.addEventListener("click", function () { // Changed from exampleButton2.addEventListener
         if (standardTemplateContainer) {
             standardTemplateContainer.style.display = (standardTemplateContainer.style.display === 'none') ? 'block' : 'none';
         }
     });
-    // ... (rest of your async function code here)
+
+// Add an event listener to open the options page when clicked
+openOptionsButton.addEventListener("click", function () {
+    chrome.runtime.sendMessage({action: "openOptionsPage"});
+});
+
+
+
     console.log("Async function completed");
 })();
 
 console.log("After async function");
 
-chrome.storage.onChanged.addListener(function(changes, namespace) {
+chrome.storage.onChanged.addListener(function (changes, namespace) {
     for (let [key, { oldValue, newValue }] of Object.entries(changes)) {
         if (key === 'darkModeActive') {
             if (newValue) {
@@ -171,3 +176,5 @@ chrome.storage.onChanged.addListener(function(changes, namespace) {
         }
     }
 });
+
+
