@@ -80,3 +80,7 @@ You should now see your extension in the list, and it should be automatically en
 ## 👥 Contribution
 
 Feel free to fork this project and make your contributions. For any major changes, please open an issue first.
+
+
+
+
