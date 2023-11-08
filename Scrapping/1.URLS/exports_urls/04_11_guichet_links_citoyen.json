@@ -2305,6 +2305,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/fr/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-titres-formation-etranger-profession-reglementee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/fr/citoyens/travail-emploi/activite-professionnelle.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Travail / Emploi",
@@ -6634,6 +6643,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-eu-silc.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-education-adultes-2022.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
@@ -6806,6 +6824,15 @@
         },
         {
             "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/denonciation-pratique-deloyale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "pratiques-deloyales",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/protection-lanceurs-alerte.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
             "Subcategory3": "protection-consommateur",
@@ -9109,6 +9136,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/fr/citoyens/logement/renovation-transformation/aides-capital/aide-financiere-creation-logement-integre.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/fr/citoyens/logement/renovation-transformation/aides-indirectes.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Logement",
@@ -9487,6 +9523,24 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/fr/citoyens/logement/prise-rdv.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/logement/prise-rdv/rdv-guichet-aides-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": "rdv-guichet-aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/fr/citoyens/sante-social.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
@@ -9506,15 +9560,6 @@
         },
         {
             "Link": "https://guichet.public.lu/fr/citoyens/sante-social/coronavirus/vaccination.html",
-            "Subcategory": "citoyens",
-            "Subcategory2": "Sante / Social",
-            "Subcategory3": "coronavirus",
-            "Subcategory4": "vaccination",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
-            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/coronavirus/vaccination/vaccination-sans-rdv.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
             "Subcategory3": "coronavirus",
@@ -10045,15 +10090,6 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
-            "Subcategory": "citoyens",
-            "Subcategory2": "Sante / Social",
-            "Subcategory3": "droits-devoirs-patient",
-            "Subcategory4": "droits-devoirs-patient",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
             "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/medecin-referent.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
@@ -10082,6 +10118,15 @@
         },
         {
             "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/interruption-volontaire-grossesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
             "Subcategory3": "droits-devoirs-patient",
@@ -11017,7 +11062,7 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-eneps.html",
+            "Link": "https://guichet.public.lu/fr/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-inaps.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Loisirs / Benevolat",
             "Subcategory3": "activites-sportives",
@@ -11980,7 +12025,7 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-accessoire.html",
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-salariee.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Immigration",
             "Subcategory3": "plus-3-mois",
@@ -13501,74 +13546,65 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/aout/23-nouveaux-conges-extraordinaires.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/novembre/03-pneus-hiver.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "23-nouveaux-conges-extraordinaires",
+            "Subcategory3": "novembre",
+            "Subcategory4": "03-pneus-hiver",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/aout/07-aidefi-hiver.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/novembre/02-soldes-hiver-2024.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "07-aidefi-hiver",
+            "Subcategory3": "novembre",
+            "Subcategory4": "02-soldes-hiver-2024",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/aout/02-modification-loi-rpgh.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/octobre/03-vignette-fiscale-voie-electronique.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "02-modification-loi-rpgh",
+            "Subcategory3": "octobre",
+            "Subcategory4": "03-vignette-fiscale-voie-electronique",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/juillet/27-leichte-sprache-accessibilite-lieux-ouverts.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/octobre/02-instructions-vote-leichte-sprache.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "27-leichte-sprache-accessibilite-lieux-ouverts",
+            "Subcategory3": "octobre",
+            "Subcategory4": "02-instructions-vote-leichte-sprache",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/juillet/26-subvention-restauration-immeuble-historique.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/octobre/02-phishing.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "26-subvention-restauration-immeuble-historique",
+            "Subcategory3": "octobre",
+            "Subcategory4": "02-phishing",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/juillet/18-myguichet-logement-durable.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/septembre/19-alertez-autorite-concurrence-myguichet.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "18-myguichet-logement-durable",
+            "Subcategory3": "septembre",
+            "Subcategory4": "19-alertez-autorite-concurrence-myguichet",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/juillet/17-snca-nouveau-site-nord-est.html",
+            "Link": "https://guichet.public.lu/fr/actualites/2023/septembre/15-app-couplage.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-snca-nouveau-site-nord-est",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
-            "Link": "https://guichet.public.lu/fr/actualites/2023/juillet/17-myguichet-vote-correspondance-legislatives.html",
-            "Subcategory": "actualites",
-            "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-myguichet-vote-correspondance-legislatives",
+            "Subcategory3": "septembre",
+            "Subcategory4": "15-app-couplage",
             "Subcategory5": null,
             "Subcategory6": null
         },
@@ -13735,9 +13771,9 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/fr/support/faq-brexit.html",
+            "Link": "https://guichet.public.lu/fr/support/partenaires.html",
             "Subcategory": "support",
-            "Subcategory2": "faq-brexit",
+            "Subcategory2": "partenaires",
             "Subcategory3": null,
             "Subcategory4": null,
             "Subcategory5": null,
@@ -16105,6 +16141,15 @@
         },
         {
             "Link": "https://guichet.public.lu/de/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-equivalence-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-titres-formation-etranger-profession-reglementee.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Travail / Emploi",
             "Subcategory3": "reconnaissance-diplome",
@@ -20442,6 +20487,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/de/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-eu-silc.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/de/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-education-adultes-2022.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
@@ -20614,6 +20668,15 @@
         },
         {
             "Link": "https://guichet.public.lu/de/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/denonciation-pratique-deloyale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "pratiques-deloyales",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/protection-lanceurs-alerte.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
             "Subcategory3": "protection-consommateur",
@@ -22926,6 +22989,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/aide-financiere-creation-logement-integre.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-indirectes.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Logement",
@@ -23304,6 +23376,24 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/prise-rdv.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/prise-rdv/rdv-guichet-aides-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": "rdv-guichet-aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/de/citoyens/sante-social.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
@@ -23323,15 +23413,6 @@
         },
         {
             "Link": "https://guichet.public.lu/de/citoyens/sante-social/coronavirus/vaccination.html",
-            "Subcategory": "citoyens",
-            "Subcategory2": "Sante / Social",
-            "Subcategory3": "coronavirus",
-            "Subcategory4": "vaccination",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
-            "Link": "https://guichet.public.lu/de/citoyens/sante-social/coronavirus/vaccination/vaccination-sans-rdv.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
             "Subcategory3": "coronavirus",
@@ -23853,15 +23934,6 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
-            "Subcategory": "citoyens",
-            "Subcategory2": "Sante / Social",
-            "Subcategory3": "droits-devoirs-patient",
-            "Subcategory4": "droits-devoirs-patient",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
             "Link": "https://guichet.public.lu/de/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/medecin-referent.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
@@ -23890,6 +23962,15 @@
         },
         {
             "Link": "https://guichet.public.lu/de/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/interruption-volontaire-grossesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
             "Subcategory3": "droits-devoirs-patient",
@@ -24825,7 +24906,7 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-eneps.html",
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-inaps.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Loisirs / Benevolat",
             "Subcategory3": "activites-sportives",
@@ -25788,7 +25869,7 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-accessoire.html",
+            "Link": "https://guichet.public.lu/de/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-salariee.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Immigration",
             "Subcategory3": "plus-3-mois",
@@ -27309,83 +27390,83 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/aout/23-nouveaux-conges-extraordinaires.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/novembre/03-pneus-hiver.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "23-nouveaux-conges-extraordinaires",
+            "Subcategory3": "novembre",
+            "Subcategory4": "03-pneus-hiver",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/aout/07-aidefi-hiver.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/novembre/02-soldes-hiver-2024.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "07-aidefi-hiver",
+            "Subcategory3": "novembre",
+            "Subcategory4": "02-soldes-hiver-2024",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/aout/02-modification-loi-rpgh.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/octobre/03-vignette-fiscale-voie-electronique.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "02-modification-loi-rpgh",
+            "Subcategory3": "octobre",
+            "Subcategory4": "03-vignette-fiscale-voie-electronique",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/juillet/27-leichte-sprache-accessibilite-lieux-ouverts.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/octobre/02-instructions-vote-leichte-sprache.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "27-leichte-sprache-accessibilite-lieux-ouverts",
+            "Subcategory3": "octobre",
+            "Subcategory4": "02-instructions-vote-leichte-sprache",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/juillet/26-subvention-restauration-immeuble-historique.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/octobre/02-phishing.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "26-subvention-restauration-immeuble-historique",
+            "Subcategory3": "octobre",
+            "Subcategory4": "02-phishing",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/juillet/18-myguichet-logement-durable.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/septembre/19-alertez-autorite-concurrence-myguichet.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "18-myguichet-logement-durable",
+            "Subcategory3": "septembre",
+            "Subcategory4": "19-alertez-autorite-concurrence-myguichet",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/juillet/17-snca-nouveau-site-nord-est.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/septembre/15-app-couplage.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-snca-nouveau-site-nord-est",
+            "Subcategory3": "septembre",
+            "Subcategory4": "15-app-couplage",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/juillet/17-myguichet-vote-correspondance-legislatives.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/septembre/07-instructions-vote-langage-facile.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-myguichet-vote-correspondance-legislatives",
+            "Subcategory3": "septembre",
+            "Subcategory4": "07-instructions-vote-langage-facile",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/actualites/2023/juillet/17-elections-complementaires-nommern.html",
+            "Link": "https://guichet.public.lu/de/actualites/2023/septembre/07-loi-penurie-main-oeuvre-qualifiee.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-elections-complementaires-nommern",
+            "Subcategory3": "septembre",
+            "Subcategory4": "07-loi-penurie-main-oeuvre-qualifiee",
             "Subcategory5": null,
             "Subcategory6": null
         },
@@ -27543,9 +27624,9 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/de/support/faq-brexit.html",
+            "Link": "https://guichet.public.lu/de/support/partenaires.html",
             "Subcategory": "support",
-            "Subcategory2": "faq-brexit",
+            "Subcategory2": "partenaires",
             "Subcategory3": null,
             "Subcategory4": null,
             "Subcategory5": null,
@@ -29868,6 +29949,15 @@
         },
         {
             "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-equivalence-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-titres-formation-etranger-profession-reglementee.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Travail / Emploi",
             "Subcategory3": "reconnaissance-diplome",
@@ -34205,6 +34295,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-eu-silc.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-education-adultes-2022.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
@@ -34385,16 +34484,16 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/colportage-consommation.html",
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/protection-lanceurs-alerte.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
             "Subcategory3": "protection-consommateur",
-            "Subcategory4": "colportage-consommation",
+            "Subcategory4": "pratiques-deloyales",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/colportage-consommation/colportage-droits-consommateur-supprimer.html",
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/colportage-consommation.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Citoyennete",
             "Subcategory3": "protection-consommateur",
@@ -36698,6 +36797,15 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-capital/aide-financiere-creation-logement-integre.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-indirectes.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Logement",
@@ -37076,6 +37184,24 @@
             "Subcategory6": null
         },
         {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/prise-rdv.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/prise-rdv/rdv-guichet-aides-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": "rdv-guichet-aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
             "Link": "https://guichet.public.lu/en/citoyens/sante-social.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
@@ -37095,15 +37221,6 @@
         },
         {
             "Link": "https://guichet.public.lu/en/citoyens/sante-social/coronavirus/vaccination.html",
-            "Subcategory": "citoyens",
-            "Subcategory2": "Sante / Social",
-            "Subcategory3": "coronavirus",
-            "Subcategory4": "vaccination",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
-            "Link": "https://guichet.public.lu/en/citoyens/sante-social/coronavirus/vaccination/vaccination-sans-rdv.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
             "Subcategory3": "coronavirus",
@@ -37625,15 +37742,6 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
-            "Subcategory": "citoyens",
-            "Subcategory2": "Sante / Social",
-            "Subcategory3": "droits-devoirs-patient",
-            "Subcategory4": "droits-devoirs-patient",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
             "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/medecin-referent.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
@@ -37662,6 +37770,15 @@
         },
         {
             "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/interruption-volontaire-grossesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Sante / Social",
             "Subcategory3": "droits-devoirs-patient",
@@ -38597,7 +38714,7 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-eneps.html",
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-inaps.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Loisirs / Benevolat",
             "Subcategory3": "activites-sportives",
@@ -39560,7 +39677,7 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-accessoire.html",
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-salariee.html",
             "Subcategory": "citoyens",
             "Subcategory2": "Immigration",
             "Subcategory3": "plus-3-mois",
@@ -41081,83 +41198,65 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/aout/23-nouveaux-conges-extraordinaires.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/novembre/03-pneus-hiver.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "23-nouveaux-conges-extraordinaires",
+            "Subcategory3": "novembre",
+            "Subcategory4": "03-pneus-hiver",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/aout/07-aidefi-hiver.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/novembre/02-soldes-hiver-2024.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "07-aidefi-hiver",
+            "Subcategory3": "novembre",
+            "Subcategory4": "02-soldes-hiver-2024",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/aout/02-modification-loi-rpgh.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/octobre/03-vignette-fiscale-voie-electronique.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "aout",
-            "Subcategory4": "02-modification-loi-rpgh",
+            "Subcategory3": "octobre",
+            "Subcategory4": "03-vignette-fiscale-voie-electronique",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/juillet/27-leichte-sprache-accessibilite-lieux-ouverts.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/octobre/02-instructions-vote-leichte-sprache.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "27-leichte-sprache-accessibilite-lieux-ouverts",
+            "Subcategory3": "octobre",
+            "Subcategory4": "02-instructions-vote-leichte-sprache",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/juillet/26-subvention-restauration-immeuble-historique.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/octobre/02-phishing.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "26-subvention-restauration-immeuble-historique",
+            "Subcategory3": "octobre",
+            "Subcategory4": "02-phishing",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/juillet/18-myguichet-logement-durable.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/septembre/19-alertez-autorite-concurrence-myguichet.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "18-myguichet-logement-durable",
+            "Subcategory3": "septembre",
+            "Subcategory4": "19-alertez-autorite-concurrence-myguichet",
             "Subcategory5": null,
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/actualites/2023/juillet/17-snca-nouveau-site-nord-est.html",
+            "Link": "https://guichet.public.lu/en/actualites/2023/septembre/15-app-couplage.html",
             "Subcategory": "actualites",
             "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-snca-nouveau-site-nord-est",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
-            "Link": "https://guichet.public.lu/en/actualites/2023/juillet/17-myguichet-vote-correspondance-legislatives.html",
-            "Subcategory": "actualites",
-            "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-myguichet-vote-correspondance-legislatives",
-            "Subcategory5": null,
-            "Subcategory6": null
-        },
-        {
-            "Link": "https://guichet.public.lu/en/actualites/2023/juillet/17-elections-complementaires-nommern.html",
-            "Subcategory": "actualites",
-            "Subcategory2": "2023",
-            "Subcategory3": "juillet",
-            "Subcategory4": "17-elections-complementaires-nommern",
+            "Subcategory3": "septembre",
+            "Subcategory4": "15-app-couplage",
             "Subcategory5": null,
             "Subcategory6": null
         },
@@ -41315,9 +41414,9 @@
             "Subcategory6": null
         },
         {
-            "Link": "https://guichet.public.lu/en/support/faq-brexit.html",
+            "Link": "https://guichet.public.lu/en/support/partenaires.html",
             "Subcategory": "support",
-            "Subcategory2": "faq-brexit",
+            "Subcategory2": "partenaires",
             "Subcategory3": null,
             "Subcategory4": null,
             "Subcategory5": null,
@@ -41347,6 +41446,35 @@
             "Link": "https://www.zesumme-vereinfachen.lu/fr-FR/projects/guichet",
             "Subcategory": "projects",
             "Subcategory2": "guichet",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null
+        }
+    ],
+    "youreurope": [
+        {
+            "Link": "https://europa.eu/youreurope/",
+            "Subcategory": "",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://europa.eu/youreurope/",
+            "Subcategory": "",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null
+        },
+        {
+            "Link": "https://europa.eu/youreurope/",
+            "Subcategory": "",
+            "Subcategory2": null,
             "Subcategory3": null,
             "Subcategory4": null,
             "Subcategory5": null,

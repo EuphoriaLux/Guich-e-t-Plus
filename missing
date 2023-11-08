@@ -1,0 +1,121 @@
+
+{
+    "missing_in_json2": "https://guichet.public.lu/de/citoyens/citoyennete/democratie-participative/europaeische-ebene/petition-europaeisches-parlament.html",
+    "details_from_json1": {
+        "Link": "https://guichet.public.lu/de/citoyens/citoyennete/democratie-participative/europaeische-ebene/petition-europaeisches-parlament.html",
+        "Subcategory": "citoyens",
+        "Subcategory2": "Citoyennete",
+        "Subcategory3": "democratie-participative",
+        "Subcategory4": "europaeische-ebene",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+{
+    "missing_in_json2": "https://guichet.public.lu/de/citoyens/citoyennete/democratie-participative/europaeische-ebene/europaeische-buergerinitiative.html",
+    "details_from_json1": {
+        "Link": "https://guichet.public.lu/de/citoyens/citoyennete/democratie-participative/europaeische-ebene/europaeische-buergerinitiative.html",
+        "Subcategory": "citoyens",
+        "Subcategory2": "Citoyennete",
+        "Subcategory3": "democratie-participative",
+        "Subcategory4": "europaeische-ebene",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+{
+    "missing_in_json2": "https://guichet.public.lu/de/citoyens/citoyennete/protection-consommateur/colportage-consommation/colportage-droits-consommateur-supprimer.html",
+    "details_from_json1": {
+        "Link": "https://guichet.public.lu/de/citoyens/citoyennete/protection-consommateur/colportage-consommation/colportage-droits-consommateur-supprimer.html",
+        "Subcategory": "citoyens",
+        "Subcategory2": "Citoyennete",
+        "Subcategory3": "protection-consommateur",
+        "Subcategory4": "colportage-consommation",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+{
+    "missing_in_json2": "https://guichet.public.lu/de/actualites/2023/septembre/07-instructions-vote-langage-facile.html",
+    "details_from_json1": {
+        "Link": "https://guichet.public.lu/de/actualites/2023/septembre/07-instructions-vote-langage-facile.html",
+        "Subcategory": "actualites",
+        "Subcategory2": "2023",
+        "Subcategory3": "septembre",
+        "Subcategory4": "07-instructions-vote-langage-facile",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+{
+    "missing_in_json2": "https://guichet.public.lu/de/actualites/2023/septembre/07-loi-penurie-main-oeuvre-qualifiee.html",
+    "details_from_json1": {
+        "Link": "https://guichet.public.lu/de/actualites/2023/septembre/07-loi-penurie-main-oeuvre-qualifiee.html",
+        "Subcategory": "actualites",
+        "Subcategory2": "2023",
+        "Subcategory3": "septembre",
+        "Subcategory4": "07-loi-penurie-main-oeuvre-qualifiee",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "missing_in_json1": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/european-level/petition-parlement-europeen.html",
+    "details_from_json2": {
+        "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/european-level/petition-parlement-europeen.html",
+        "Subcategory": "citoyens",
+        "Subcategory2": "Citoyennete",
+        "Subcategory3": "democratie-participative",
+        "Subcategory4": "european-level",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+{
+    "missing_in_json1": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/european-level/initiative-citoyenne-europeenne.html",
+    "details_from_json2": {
+        "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/european-level/initiative-citoyenne-europeenne.html",
+        "Subcategory": "citoyens",
+        "Subcategory2": "Citoyennete",
+        "Subcategory3": "democratie-participative",
+        "Subcategory4": "european-level",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}
+{
+    "missing_in_json1": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-capital/aide-epargne-logement.html",
+    "details_from_json2": {
+        "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-capital/aide-epargne-logement.html",
+        "Subcategory": "citoyens",
+        "Subcategory2": "Logement",
+        "Subcategory3": "renovation-transformation",
+        "Subcategory4": "aides-capital",
+        "Subcategory5": null,
+        "Subcategory6": null,
+        "SpecificElementExists": true
+    }
+}

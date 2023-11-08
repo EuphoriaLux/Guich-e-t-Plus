@@ -17,7 +17,8 @@
   "host_permissions": [
     "https://guichet.public.lu/fr/citoyens*",
     "https://guichet.public.lu/de/citoyens*",
-    "https://guichet.public.lu/en/citoyens*"
+    "https://guichet.public.lu/en/citoyens*",
+    "https://guichet.public.lu/fr/entreprises/creation-developpement/projet-creation/definition/business-plan.html"
   ],
   "background": {
     "service_worker": "background.js"
@@ -35,7 +36,8 @@
       "matches": [
         "https://guichet.public.lu/fr/citoyens*",
         "https://guichet.public.lu/de/citoyens*",
-        "https://guichet.public.lu/en/citoyens*"
+        "https://guichet.public.lu/en/citoyens*",
+        "https://guichet.public.lu/fr/entreprises/creation-developpement/projet-creation/definition/business-plan.html"
       ],
 
       "js": [

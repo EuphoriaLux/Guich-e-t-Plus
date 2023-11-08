@@ -1,0 +1,153 @@
+Key Retreal Functionnality 
+
+Categorizing each link with their primary category and subcategories can indeed be beneficial for your TF-IDF vectorization and the overall text analysis process for several reasons:
+
+Improved Organization: It allows for a more organized corpus, where documents are grouped based on their topic, making it easier to manage and navigate through your data.
+
+Enhanced Filtering: You can filter documents based on their categories or subcategories before vectorization, which can be particularly useful if you're interested in analyzing or querying a specific subset of your corpus.
+
+Targeted Analysis: By knowing the category of each document, you can perform more targeted text analysis, such as comparing the language use between different categories or subcategories.
+
+Better Training Data: If you plan to use supervised machine learning techniques, such as document classification, having pre-labeled categories can serve as training labels.
+
+Improved Search: When performing search queries, you can prioritize or limit results based on categories, which can improve the relevancy of search results.
+
+Customized Vectorization: You could customize the TF-IDF vectorization for each category. For example, you might use different stop words or feature selection criteria for different categories, which could lead to more accurate representations of documents' meanings.
+
+Performance Boost: If you're dealing with a large corpus, categorization can allow you to vectorize and analyze your data in smaller, more manageable chunks, which can be beneficial from a performance standpoint.
+
+Here's how you might reflect categories in your data structure:
+
+Create a nested dictionary or a data frame with columns for URL, Category, Subcategory1, Subcategory2, and Text.
+When scraping, extract the category information if available on the page or structure your scraping script to know the category based on the source of the link.
+During vectorization, you can choose to either:
+Vectorize the whole corpus at once, keeping track of categories for each document.
+Vectorize each category separately, which might make sense if the categories are very distinct and you plan to perform category-specific analysis.
+When you later use the TF-IDF matrix for querying or machine learning, you can use the category information to filter or analyze your results. For instance, if a user is interested in a particular topic, you can limit the search to documents within the relevant category or use the category as a feature in a machine learning model.
+
+Identification: The title of a webpage often concisely represents its content and can be used to quickly identify the subject matter of the page.
+
+Reference: When presenting search results or similar documents, users generally find it more helpful to see a descriptive title rather than a URL or document ID.
+
+Organization: Titles can help organize and sort your documents in a meaningful way, especially if the filenames or URLs are not descriptive.
+
+Search and Retrieval: Including the title in your TF-IDF matrix (assuming it is appropriately preprocessed) can improve the performance of search and retrieval operations since titles often contain keywords that are highly relevant to the content of the page.
+
+When you extract and preprocess the webpage text, you can modify the script to also extract the title tag from the HTML. Here’s how you might adjust the script to include titles:
+
+
+
+
+
+python
+Copy code
+# Additional imports
+import json
+
+# Function to extract and preprocess text from HTML, now also extracting the title
+def preprocess_html(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        # Extract text from HTML
+        soup = BeautifulSoup(file, 'html.parser')
+        
+        # Extract title
+        title = soup.title.string if soup.title else 'No Title'
+        
+        # Preprocess title in the same way as the body text
+        processed_title = ' '.join([stemmer.stem(word) for word in nltk.word_tokenize(title.lower()) if word not in stop_words])
+        
+        # Extract and preprocess body text
+        text = soup.get_text()
+        words = nltk.word_tokenize(re.sub(r'[^a-zA-Z]', ' ', text.lower()))
+        processed_words = [stemmer.stem(word) for word in words if word not in stop_words]
+        
+        return processed_title, ' '.join(processed_words)
+
+# Assume the rest of the script is the same up to the vectorization part
+
+# Now, instead of just one list, we'll have two: one for titles and one for contents
+preprocessed_titles = []
+preprocessed_texts = []
+
+for category_dir in os.listdir(webpages_dir):
+    category_path = os.path.join(webpages_dir, category_dir)
+    
+    if os.path.isdir(category_path):
+        for webpage_file in os.listdir(category_path):
+            file_path = os.path.join(category_path, webpage_file)
+            
+            title, preprocessed_text = preprocess_html(file_path)
+            preprocessed_titles.append(title)
+            preprocessed_texts.append(preprocessed_text)
+            # The rest of the loop remains the same
+
+# Combine titles and contents before vectorization
+combined_texts = [f"{title} {content}" for title, content in zip(preprocessed_titles, preprocessed_texts)]
+
+# Vectorization with TfidfVectorizer
+vectorizer = TfidfVectorizer(max_features=10000)
+tfidf_matrix = vectorizer.fit_transform(combined_texts)
+
+# Now you have a TF-IDF matrix that includes information from both titles and contents
+Storing the Data
+You might also consider storing this data in a structured format like JSON, which could be useful for later retrieval or processing:
+
+python
+Copy code
+# Assuming `doc_ids`, `categories`, and `preprocessed_titles` are populated as before
+
+# Create a list of dictionaries with all the information
+webpage_data = [{
+    'doc_id': doc_id,
+    'category': category,
+    'title': title,
+    'content': content
+} for doc_id, category, title, content in zip(doc_ids, categories, preprocessed_titles, preprocessed_texts)]
+
+# Write to a JSON file
+with open('webpage_data.json', 'w', encoding='utf-8') as f:
+    json.dump(webpage_data, f, ensure_ascii=False, indent=4)
+
+
+    
+
+
+
+
+
+
+    Mapping and Retreaval
+
+
+
+    Document Preprocessing:
+
+How do you currently preprocess your webpage content? (e.g., tokenization, stemming, lemmatization, stop-word removal)
+What is the average length of the webpages, and what is the nature of the content (text-heavy, multimedia, etc.)?
+TF-IDF Parameters:
+
+Have you experimented with different TF-IDF parameters? For example, the maximum and minimum document frequency thresholds for including words in the vocabulary.
+Do you have a preferred n-gram range for the TF-IDF vectorizer? (unigrams only, unigrams and bigrams, etc.)
+Dimensionality Reduction:
+
+Given the high number of pages, are you considering using any dimensionality reduction techniques post-vectorization, such as Singular Value Decomposition (SVD) or Principal Component Analysis (PCA)?
+Search and Relevance:
+
+What kind of search functionality do you need? (keyword search, phrase search, boolean search, etc.)
+How do you plan to measure relevance? (cosine similarity, BM25, etc.)
+Performance:
+
+What are your performance requirements for indexing and query response time?
+Do you have a server or is this going to be a client-side application?
+Scalability:
+
+How frequently is the content updated? Will the TF-IDF matrix need to be updated dynamically?
+Are you planning for future scalability in terms of the number of documents or the size of the documents?
+User Interaction:
+
+What kind of information will users be searching for?
+How do you plan to present the search results to the user?
+Technical Constraints:
+
+Are there any storage or memory limitations?
+What programming languages or frameworks are you intending to use?

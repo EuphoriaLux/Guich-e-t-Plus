@@ -1,0 +1,4404 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/en.html",
+            "Subcategory": null,
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/perception-salaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "perception-salaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/declaration-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "declaration-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/fiche-retenue-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/allegement-fiscal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/salarie-hautement-qualifie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "salarie-hautement-qualifie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/paiement-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/perception-salaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "perception-salaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/fiche-retenue-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/allegement-fiscal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/salarie-hautement-qualifie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "salarie-hautement-qualifie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/paiement-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/inscription-adm-fiscales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "inscription-adm-fiscales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/changement-situation-perso.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/allegement-fiscal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/terrain-bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "terrain-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/paiement-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "paiement-impot-du",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/location.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/vente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "vente",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/depenses-deductibles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/terrain-bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "terrain-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/construction-renovation-bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "construction-renovation-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/achat-bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "achat-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/don-bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "don-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/achat-vehicule-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "achat-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/proprietaire-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "proprietaire-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/voiture-societe-salarie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "voiture-societe-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/livraison-intracommunautaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "livraison-intracommunautaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/succession.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "succession",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/donation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "donation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/etablissement-fiche-retenue-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/perception-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "perception-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/perception-rente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "perception-rente",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/allegement-fiscal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/paiement-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/banque-dividende-interets.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "banque-dividende-interets",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/paiement-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/obligations-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "obligations-employeur",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/obligations-employeur/remuneration-salarie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "obligations-employeur",
+            "Subcategory4": "remuneration-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/importation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "importation",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/importation/importation-marchandises.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "importation",
+            "Subcategory4": "importation-marchandises",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/certificats.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "certificats",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/certificats/proprietes-immobilieres.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "certificats",
+            "Subcategory4": "proprietes-immobilieres",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/certificats/certificat-residence-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "certificats",
+            "Subcategory4": "certificat-residence-fiscale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/reconnaissance-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/recherche-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "recherche-emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/mesures-insertion-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "mesures-insertion-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/relations-collectives-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "relations-collectives-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/etablissement-fiche-retenue-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-independante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-independante",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-independante/statut-artiste.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-independante",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/regime-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "regime-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/duree-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "duree-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/visite-medicale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "visite-medicale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/annuel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "annuel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/jours-feries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "jours-feries",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/formation-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "formation-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/exercice-mandat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "exercice-mandat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/activite-extra-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "activite-extra-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/recherche-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "recherche-emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/incapacite-maladie-accident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "incapacite-maladie-accident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/incapacite-exercice-dernier-poste.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "incapacite-exercice-dernier-poste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/invalidite-marche-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "invalidite-marche-emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/rdv-en-ligne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "rdv-en-ligne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/risques-assures.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-avant-2011.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-survivants-apres-2011.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-survivants-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/voies-recours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "voies-recours",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/statut-salarie-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "statut-salarie-handicape",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/inscription-travailleur-handicape-adem.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "inscription-travailleur-handicape-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/faillite-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "faillite-employeur",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/deces-invalidite-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "deces-invalidite-employeur",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/inscription-adem.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "inscription-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/aides-reemploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "aides-reemploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/mesures-jeunes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "mesures-jeunes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/formation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "formation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite/preretraite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": "preretraite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/forfait-education.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "forfait-education",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/vie-maritale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/vie-maritale/partenariat-pacs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/vie-maritale/mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/vie-maritale/separation-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/vie-maritale/certificats.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents/obligation-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "obligation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents/adoption.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "adoption",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents/allocation-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "allocation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents/conges-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "conges-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents/garde-enfants.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/parents/assistance-enfance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "assistance-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/seniors.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/seniors/aides-specifiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/seniors/testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/dependance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/dependance/assurance-dependance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "assurance-dependance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/dependance/aides-specifiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/dependance/embauche-personnel-aide-personnes-dependantes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "embauche-personnel-aide-personnes-dependantes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/mesures-action-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-menages-revenus-modestes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/mesures-action-sociale/aide-enfance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/euthanasie-soins-palliatifs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "euthanasie-soins-palliatifs",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/euthanasie-soins-palliatifs/fin-de-vie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "euthanasie-soins-palliatifs",
+            "Subcategory4": "fin-de-vie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/deces-disparition.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/deces-disparition/testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/deces-disparition/deces-proche.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/deces-disparition/prestations-survivants.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "prestations-survivants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/animaux-domestiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "animaux-domestiques",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/famille/animaux-domestiques/acquisition-chien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "animaux-domestiques",
+            "Subcategory4": "acquisition-chien",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/education-prescolaire-primaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/education-prescolaire-primaire/inscription.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "inscription",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/education-prescolaire-primaire/besoins-specifiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "besoins-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/education-prescolaire-primaire/aides-conseils.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "aides-conseils",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/education-prescolaire-primaire/parascolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "parascolaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/education-prescolaire-primaire/orientation-fin-primaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "orientation-fin-primaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/enseignement-postprimaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/enseignement-postprimaire/inscription-public.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "inscription-public",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/enseignement-postprimaire/jeune-recemment-arrive-pays.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "jeune-recemment-arrive-pays",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/enseignement-postprimaire/jeune-recemment-arrive-pays/reconnaissance-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "jeune-recemment-arrive-pays",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/enseignement-postprimaire/aides-postprimaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "aides-postprimaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/etudes-superieures.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/etudes-superieures/inscription-etudes-superieures.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-etudes-superieures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/etudes-superieures/aides-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/etudes-superieures/reconnaissance-diplomes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "reconnaissance-diplomes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/etudes-superieures/inscription-enseignement-professionnel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-enseignement-professionnel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/etudes-superieures/activite-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "activite-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/formation-adultes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/formation-adultes/diplomante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/formation-adultes/diplomante/validation-acquis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/formation-adultes/non-diplomante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "non-diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/formation-adultes/professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/enseignement-formation/formation-adultes/conge.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/papiers-identite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/papiers-identite/carte-identite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "carte-identite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/papiers-identite/titre-voyage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "titre-voyage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/certificat-casier-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/certificat-casier-judiciaire/casier-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "casier-judiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/certificat-casier-judiciaire/antecedents-judicaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "antecedents-judicaires",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/accessibilite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "accessibilite",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/accessibilite/mesure-accessibilite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "accessibilite",
+            "Subcategory4": "mesure-accessibilite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/installation-demenagement-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/installation-demenagement-luxembourg/declaration-arrivee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": "declaration-arrivee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/installation-demenagement-luxembourg/arrivee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": "arrivee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/registre-national.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "registre-national",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/registre-national/identification-registre-national.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "registre-national",
+            "Subcategory4": "identification-registre-national",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/acces-information.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "acces-information",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/acces-information/acces-informations-institutions.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "acces-information",
+            "Subcategory4": "acces-informations-institutions",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/acces-information/acces-archives-publiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "acces-information",
+            "Subcategory4": "acces-archives-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-donnees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-donnees",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-donnees/reclamation-cnpd0.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-donnees",
+            "Subcategory4": "reclamation-cnpd0",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/choix-chgt-nom-prenom.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "choix-chgt-nom-prenom",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/choix-chgt-nom-prenom/nom-prenom.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "choix-chgt-nom-prenom",
+            "Subcategory4": "nom-prenom",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/possession-automatique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "possession-automatique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "acquisition-recouvrement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/perte.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "perte",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/elections.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/elections/elections-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-communales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/elections/elections-legislatives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/elections/elections-europeennes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-europeennes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/elections/referendum.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "referendum",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/elections/elections-sociales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-sociales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/depot-requetes-petition.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "depot-requetes-petition",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/european-level.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "european-level",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/democratie-participative/enquetes-publiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/garantie-conformite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "garantie-conformite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/contrat-distance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "contrat-distance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/credit-consommation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credit-consommation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/credits-speciaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credits-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/indication-prix.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "indication-prix",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/pratiques-deloyales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "pratiques-deloyales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/colportage-consommation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "colportage-consommation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/reglement-extrajudiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "reglement-extrajudiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/protection-consommateur/droits-voyageurs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/contestation-decision-administrative.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "contestation-decision-administrative",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/plaintes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "plaintes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/mediation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/recours-jugement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "recours-jugement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/frais-avocat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "frais-avocat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/indemnisation-victimes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "indemnisation-victimes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/demande-grace.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "demande-grace",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/voies-recours-reglement-litiges/procedure-europeenne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "procedure-europeenne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/demarches-police.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/demarches-police/declaration.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "declaration",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/demarches-police/plainte.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "plainte",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/citoyennete/demarches-police/saisie-igp.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "saisie-igp",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-commun.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-commun/cartes-transports.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "cartes-transports",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-commun/droits-voyageurs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/vehicule-motorise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "achat-importation-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/aides-financieres-acquisition-detention-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "aides-financieres-acquisition-detention-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/stationnement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "stationnement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/infractions.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "infractions",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/degats-accidents.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "degats-accidents",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/voiture-societe-salarie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "voiture-societe-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/livraison-intracommunautaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "livraison-intracommunautaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/aspects-contractuels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/aides-capital.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/aides-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/aides-indirectes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/performances-energie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/copropriete.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "copropriete",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/prime-house.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/klimabonus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/acquisition/statistiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "statistiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/bail-a-loyer.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "bail-a-loyer",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/aides-au-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "aides-au-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/copropriete.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "copropriete",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/proprietaire-bien-location.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "proprietaire-bien-location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/litige.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "litige",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/recuperation-eau-pluie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "recuperation-eau-pluie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/location/location-temporaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "location-temporaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/aspects-contractuels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/construire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/aides-capital.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/aides-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/aides-indirectes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/performances-energie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/recuperation-eau-pluie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "recuperation-eau-pluie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/certificats.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/statistiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "statistiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/prime-house.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/construction/klimabonus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/surface-habitable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "surface-habitable",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/surface-habitable/surface-habitable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "surface-habitable",
+            "Subcategory4": "surface-habitable",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/construire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-capital.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-indirectes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/aides-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/performances-energie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/recuperation-eau-pluie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "recuperation-eau-pluie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/statistiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "statistiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/klimabonus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/renovation-transformation/prime-house.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/vente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/vente/aspects-contractuels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/vente/plus-values.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": "plus-values",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/vente/certificat-performance-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": "certificat-performance-energetique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/pap-pag.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "pap-pag",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/pap-pag/pag.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "pap-pag",
+            "Subcategory4": "pag",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/pap-pag/pap.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "pap-pag",
+            "Subcategory4": "pap",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/urbanisme-environnement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "urbanisme-environnement",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/urbanisme-environnement/assistance-urbanisme-environnement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "urbanisme-environnement",
+            "Subcategory4": "assistance-urbanisme-environnement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/logement/prise-rdv.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/coronavirus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "coronavirus",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/coronavirus/vaccination.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "coronavirus",
+            "Subcategory4": "vaccination",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/coronavirus/covidcheck.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "coronavirus",
+            "Subcategory4": "covidcheck",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/rdv-en-ligne-caisse-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "rdv-en-ligne-caisse-maladie",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-maladie-maternite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-maladie-maternite/salarie-independant-famille.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "salarie-independant-famille",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-maladie-maternite/prestations-detache.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-detache",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-maladie-maternite/prestations-sante-etudiant-stagiaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-sante-etudiant-stagiaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-maladie-maternite/prestations-personnes-inactives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-personnes-inactives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-maladie-maternite/assurance-complementaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "assurance-complementaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-dependance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-dependance/dependance-tierce-personne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "dependance-tierce-personne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/assurance-dependance/embauche-personnel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "embauche-personnel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/accident-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/accident-maladie/risques-assures.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/accident-maladie/prestations-avant-2011.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/accident-maladie/prestations-apres-2011.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/accident-maladie/prestations-survivants-apres-2011.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-survivants-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/accident-maladie/voies-recours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "voies-recours",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/resolution-litiges.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "resolution-litiges",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/droits-devoirs-patient/soins-domicile.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "soins-domicile",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/remboursement-frais-medicaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/remboursement-frais-medicaux/prestations-sante-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": "prestations-sante-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/remboursement-frais-medicaux/prestations-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": "prestations-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/maternite-prestations-familiales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/maternite-prestations-familiales/allocations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "allocations",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/maternite-prestations-familiales/conge.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/maternite-prestations-familiales/assistance-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "assistance-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/indemnite-espece-maladie-accident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "indemnite-espece-maladie-accident",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/indemnite-espece-maladie-accident/maladie-accident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "indemnite-espece-maladie-accident",
+            "Subcategory4": "maladie-accident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/indemnite-espece-maladie-accident/maladie-professionnelle-longue-duree.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "indemnite-espece-maladie-accident",
+            "Subcategory4": "maladie-professionnelle-longue-duree",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/fin-vie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "fin-vie",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/fin-vie/euthanasie-soins-palliatifs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "fin-vie",
+            "Subcategory4": "euthanasie-soins-palliatifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/action-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/action-sociale/aide-financiere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-financiere",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/action-sociale/aide-enfance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/action-sociale/aides-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/action-sociale/soins-sante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "soins-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/action-sociale/assistance-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "assistance-judiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/reglement-dettes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "reglement-dettes",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/sante-social/reglement-dettes/surendettement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "reglement-dettes",
+            "Subcategory4": "surendettement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/culture-tourisme.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/culture-tourisme/statut-artiste.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/culture-tourisme/patrimoine-culturel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "patrimoine-culturel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/tourisme.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/tourisme/voyages.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "voyages",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/tourisme/droits-voyageurs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/activites-sportives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/activites-sportives/pratique-activite-sportive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "pratique-activite-sportive",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "encadrement-sportif",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/permis-licences.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/permis-licences/pratique-peche.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-peche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/permis-licences/pratique-chasse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/permis-licences/exercice-navigation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/permis-licences/rucher-abeilles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "rucher-abeilles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/permis-licences/detention-armes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "detention-armes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/milieu-associatif.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/milieu-associatif/conges-speciaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "conges-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/animaux-compagnie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "animaux-compagnie",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/loisirs-benevolat/animaux-compagnie/obligations-legales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "animaux-compagnie",
+            "Subcategory4": "obligations-legales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/moins-3-mois.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/moins-3-mois/citoyen-UE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/moins-3-mois/citoyen-UE/conditions-entree.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/moins-3-mois/citoyen-UE/specificites.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/moins-3-mois/membre-famille-UE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/moins-3-mois/ressortissant-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/conditions-entree.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/specificites.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/perte-vol-document.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/demarches-communes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/hautement-qualifie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie-transfere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie-detache.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/saisonnier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/travailleur-independant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/sportif-entraineur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/raisons-privees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/eleve.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/stagiaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/chercheur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/volontariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/jeune-au-pair.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/investisseur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/sejour-5-ans.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/perte-vol-document.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/membre-famille-UE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/membre-famille-UE/conditions-entree.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/membre-famille-UE/perte-vol-document.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/membre-famille-UE/sejour-5-ans.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-britannique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-britannique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/travailleur-frontalier-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "travailleur-frontalier-tiers",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/cas-specifiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/cas-specifiques/protection-internationale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "protection-internationale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/cas-specifiques/apatride.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "apatride",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/cas-specifiques/sursis-report-eloignement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "sursis-report-eloignement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/cas-specifiques/voyages-scolaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "voyages-scolaires",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/arrivee-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "arrivee-luxembourg",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/reconnaissance-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/homologation-inscription.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/travail-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Travail / Emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/fiscalite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "fiscalite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/retranscription-actes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "retranscription-actes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/ecole-langues.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "ecole-langues",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/declaration-devises.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "declaration-devises",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/participation-elections.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "participation-elections",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/loisirs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "loisirs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/immigration/ukraine.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "ukraine",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/immigration.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "Immigration",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/allocations-familiales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "allocations-familiales",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/education.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "education",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "securite-sociale",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "permis-conduire",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/detachement-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "detachement-etranger",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/importation-marchandise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "importation-marchandise",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/protection-donnees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "protection-donnees",
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/formulaires.html",
+            "Subcategory": "formulaires",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/support/aide.html",
+            "Subcategory": "support",
+            "Subcategory2": "aide",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        },
+        {
+            "Link": "https://guichet.public.lu/en/support/accessibilite.html",
+            "Subcategory": "support",
+            "Subcategory2": "accessibilite",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": false
+        }
+    ]
+}

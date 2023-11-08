@@ -1,0 +1,69 @@
+import json
+
+def load_json(file_path):
+    with open(file_path, 'r') as file:
+        return json.load(file)
+
+
+# Load JSON files for each language
+json_fr = load_json('Scrapping/4.exports/needs/fr_true_elements.json')
+json_de = load_json('Scrapping/4.exports/needs/de_true_elements.json')
+json_en = load_json('Scrapping/4.exports/needs/en_true_elements.json')
+
+# Function to count the number of items in each subcategory
+def count_subcategories(data):
+    counts = {}
+    
+    for item in data:
+        # Loop through each subcategory
+        for i in range(1, 7):
+            subcategory_key = f"Subcategory{i}"
+            subcategory = item.get(subcategory_key)
+            
+            # If the subcategory is not null, update the counts
+            if subcategory:
+                if subcategory in counts:
+                    counts[subcategory] += 1
+                else:
+                    counts[subcategory] = 1
+    
+    return counts
+
+# Call the function and print the results
+subcategory_counts = count_subcategories(data)
+for subcategory, count in subcategory_counts.items():
+    print(f"Subcategory '{subcategory}' has {count} items.")
+
+def count_numbers(data):
+    """
+    Recursively count all the numbers in the provided data structure (dict, list, etc.)
+    """
+    number_count = 0
+
+    if isinstance(data, dict):
+        for value in data.values():
+            number_count += count_numbers(value)
+    elif isinstance(data, list):
+        for item in data:
+            number_count += count_numbers(item)
+    elif isinstance(data, (int, float)):
+        number_count += 1
+    elif isinstance(data, str):
+        # Try to convert string to a float
+        try:
+            float(data)
+            number_count += 1
+        except ValueError:
+            pass
+
+    return number_count
+
+# Count numbers in the loaded JSON data
+numbers_count_fr = count_numbers(json_fr)
+numbers_count_de = count_numbers(json_de)
+numbers_count_en = count_numbers(json_en)
+
+
+print("FR " + str(numbers_count_fr))
+print("DE " + str(numbers_count_de))
+print("EN " + str(numbers_count_en))
