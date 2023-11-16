@@ -19,9 +19,9 @@ def split_json_by_language(input_file_path):
     # Define the language keys and the corresponding file names
     languages = ['fr', 'de', 'en']
     file_paths = {
-        'fr': 'fr_links_citoyen.json',
-        'de': 'de_links_citoyen.json',
-        'en': 'en_links_citoyen.json'
+        'fr': 'fr_links_entreprise.json',
+        'de': 'de_links_entreprise.json',
+        'en': 'en_links_entreprise.json'
     }
 
     # Split the data and write to separate files
@@ -31,5 +31,5 @@ def split_json_by_language(input_file_path):
         print(f"File for {lang} language has been saved to {file_paths[lang]}")
 
 # Usage
-input_file_path = '04_11_guichet_links_citoyen.json'
+input_file_path = '13_11_guichet_links_entreprise.json'
 split_json_by_language(input_file_path)

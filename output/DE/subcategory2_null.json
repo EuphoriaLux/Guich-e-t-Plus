@@ -1,0 +1,84 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html#headernav",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html#main",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/entreprises.html",
+            "Subcategory": "entreprises",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html#footernav",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens.html#top",
+            "Subcategory": "citoyens",
+            "Subcategory2": null,
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

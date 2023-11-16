@@ -1,0 +1,104 @@
+import json
+
+def load_json(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            return json.load(file)
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+        return None
+
+# Function to count the number of items in each subcategory
+def count_subcategories(json_data):
+    counts = {}
+    if json_data is None:
+        return counts
+
+    for item in json_data.get('json_data', []):
+        breadcrumb = []
+        for i in range(1, 7):
+            subcategory_key = f"Subcategory{i}"
+            subcategory = item.get(subcategory_key)
+            if subcategory:
+                breadcrumb.append(subcategory)
+
+        breadcrumb_path = " > ".join(breadcrumb)
+        if breadcrumb_path:
+            counts[breadcrumb_path] = counts.get(breadcrumb_path, 0) + 1
+    return counts
+
+
+# Function to recursively count all the numbers in the provided data structure
+def count_numbers(data):
+    number_count = 0
+    if isinstance(data, dict):
+        for value in data.values():
+            number_count += count_numbers(value)
+    elif isinstance(data, list):
+        for item in data:
+            number_count += count_numbers(item)
+    elif isinstance(data, (int, float)):
+        number_count += 1
+    elif isinstance(data, str):
+        try:
+            float(data)
+            number_count += 1
+        except ValueError:
+            pass
+    return number_count
+
+# Function to compare counts between different JSON files
+def compare_json_files(counts_fr, counts_de, counts_en, num_fr, num_de, num_en):
+    all_subcategories = set(counts_fr.keys()).union(counts_de.keys()).union(counts_en.keys())
+    print("Subcategory Comparison:")
+    for subcategory in all_subcategories:
+        count_fr = counts_fr.get(subcategory, 0)
+        count_de = counts_de.get(subcategory, 0)
+        count_en = counts_en.get(subcategory, 0)
+        print(f"Subcategory '{subcategory}': FR={count_fr}, DE={count_de}, EN={count_en}")
+    print("\nTotal Number Counts:")
+    print(f"FR: {num_fr}, DE: {num_de}, EN: {num_en}")
+
+# Load JSON files for each language
+json_fr = load_json('output/FR/true_elements/true_elements_FR_entreprise.json')
+json_de = load_json('path_to_state_de_links_entreprise.json')  # Update path
+json_en = load_json('path_to_state_en_links_entreprise.json')  # Update path
+
+# Count subcategories and numbers in JSON data
+subcategory_counts_fr = count_subcategories(json_fr)
+subcategory_counts_de = count_subcategories(json_de)
+subcategory_counts_en = count_subcategories(json_en)
+
+numbers_count_fr = count_numbers(json_fr)
+numbers_count_de = count_numbers(json_de)
+numbers_count_en = count_numbers(json_en)
+
+def print_subcategories(title, subcategory_counts, limit=None, include_subcategories=None):
+    print(f"{title}:")
+    sorted_subcategories = sorted(subcategory_counts.items(), key=lambda x: (-x[1], x[0]))
+
+    if limit:
+        sorted_subcategories = sorted_subcategories[:limit]
+
+    included = set()
+    for breadcrumb, count in sorted_subcategories:
+        print(f"  {breadcrumb}: {count}")
+        included.add(breadcrumb)
+
+    if include_subcategories:
+        for subcategory in include_subcategories:
+            if subcategory not in included:
+                count = subcategory_counts.get(subcategory, 0)
+                print(f"  {subcategory}: {count}")
+
+
+# Print top 10 subcategories and always include 'Brexit'
+print_subcategories("FR Subcategories", subcategory_counts_fr, limit=15, include_subcategories=["Brexit"])
+
+print_subcategories("DE Subcategories", subcategory_counts_de, limit=10)
+print_subcategories("EN Subcategories", subcategory_counts_en, limit=10)
+
+print("FR Number Count:", numbers_count_fr)
+print("DE Number Count:", numbers_count_de)
+print("EN Number Count:", numbers_count_en)
+

@@ -1,0 +1,824 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/coronavirus/vaccination/demande-covidcheck-certificat-myguichet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "coronavirus",
+            "Subcategory4": "vaccination",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/coronavirus/covidcheck/consultation-covidcheck-myguichet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "coronavirus",
+            "Subcategory4": "covidcheck",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/coronavirus/covidcheck/demande-covidcheck-certificat-myguichet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "coronavirus",
+            "Subcategory4": "covidcheck",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/rdv-en-ligne-caisse-maladie/rdv-cns.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "rdv-en-ligne-caisse-maladie",
+            "Subcategory4": "rdv-cns",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/rdv-en-ligne-caisse-maladie/rdv-cmfec.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "rdv-en-ligne-caisse-maladie",
+            "Subcategory4": "rdv-cmfec",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/rdv-en-ligne-caisse-maladie/rdv-ccss.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "rdv-en-ligne-caisse-maladie",
+            "Subcategory4": "rdv-ccss",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/salarie-independant-famille/affiliation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "salarie-independant-famille",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/salarie-independant-famille/carte-securite-sociale-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "salarie-independant-famille",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-detache/detachement-Luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-detache",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-detache/detachement-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-detache",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-sante-etudiant-stagiaire/etudes-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-sante-etudiant-stagiaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-sante-etudiant-stagiaire/etudes-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-sante-etudiant-stagiaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-sante-etudiant-stagiaire/stagiaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-sante-etudiant-stagiaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-personnes-inactives/revenu-remplacement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-personnes-inactives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/prestations-personnes-inactives/assurance-maladie-volontaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "prestations-personnes-inactives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/assurance-complementaire/mutuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "assurance-complementaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-maladie-maternite/certificat-ccss.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-maladie-maternite",
+            "Subcategory4": "certificat-ccss",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-dependance/dependance-tierce-personne/demander-prise-charge-dependance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "dependance-tierce-personne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-dependance/dependance-tierce-personne/beneficier-prestations-milieu-stationnaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "dependance-tierce-personne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-dependance/dependance-tierce-personne/participation-accueil-gerontologique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "dependance-tierce-personne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-dependance/dependance-tierce-personne/aides-techniques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "dependance-tierce-personne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-dependance/dependance-tierce-personne/mesure-exceptionnelle-soutien-intensif-extrahospitalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "dependance-tierce-personne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/assurance-dependance/embauche-personnel/engager-personnel-menage-prive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "assurance-dependance",
+            "Subcategory4": "embauche-personnel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/risques-assures/declaration-accident-travail-trajet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/risques-assures/declaration-accident-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/risques-assures/declaration-maladie-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-avant-2011/reouverture-dossier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-avant-2011/revision-rente-accident-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-avant-2011/rachat-rente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-avant-2011/prestations-survivants.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-apres-2011/indemnisation-degat-materiel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-apres-2011/reouverture-dossier-accident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-apres-2011/rente-complete-incapacite-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-apres-2011/rente-professionelle-attente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-apres-2011/obtention-revision-prejudices-extrapatrimoniaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-apres-2011/rente-partielle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-survivants-apres-2011/rente-survie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-survivants-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/prestations-survivants-apres-2011/dommage-moral.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-survivants-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/accident-maladie/voies-recours/voies-recours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "voies-recours",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/medecin-referent.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/personne-confiance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/carte-donneur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/interruption-volontaire-grossesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/droits-devoirs-patient/droits-obligations-patient.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "droits-devoirs-patient",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/resolution-litiges/service-mediation-sante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "resolution-litiges",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/resolution-litiges/juridiction-recours-securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "resolution-litiges",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/soins-domicile/aides-personnes-agees-dependantes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "soins-domicile",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/droits-devoirs-patient/soins-domicile/inscription-plan-canicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "droits-devoirs-patient",
+            "Subcategory4": "soins-domicile",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/remboursement-frais-medicaux/prestations-sante-resident/prise-en-charge-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": "prestations-sante-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/remboursement-frais-medicaux/prestations-etranger/soins-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": "prestations-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/remboursement-frais-medicaux/prestations-etranger/UE-EEE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": "prestations-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/remboursement-frais-medicaux/prestations-etranger/pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "remboursement-frais-medicaux",
+            "Subcategory4": "prestations-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/allocations/allocation-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "allocations",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/allocations/allocations-familiales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "allocations",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/allocations/allocation-supplementaire-enfant-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "allocations",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/conge/conge-extraordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/conge/conge-maternite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/conge/conge-accueil-adoption.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/conge/conge-parental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/conge/conge-maladie-enfant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/maternite-prestations-familiales/assistance-naissance/aide-precoce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "maternite-prestations-familiales",
+            "Subcategory4": "assistance-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/indemnite-espece-maladie-accident/maladie-accident/declaration-incapacite-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "indemnite-espece-maladie-accident",
+            "Subcategory4": "maladie-accident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/indemnite-espece-maladie-accident/maladie-professionnelle-longue-duree/reclassement-interne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "indemnite-espece-maladie-accident",
+            "Subcategory4": "maladie-professionnelle-longue-duree",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/indemnite-espece-maladie-accident/maladie-professionnelle-longue-duree/reclassement-externe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "indemnite-espece-maladie-accident",
+            "Subcategory4": "maladie-professionnelle-longue-duree",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/fin-vie/euthanasie-soins-palliatifs/beneficier-soins-palliatifs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "fin-vie",
+            "Subcategory4": "euthanasie-soins-palliatifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/fin-vie/euthanasie-soins-palliatifs/euthanasie-assistance-suicide.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "fin-vie",
+            "Subcategory4": "euthanasie-soins-palliatifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/fin-vie/euthanasie-soins-palliatifs/conge-accompagnement-fin-vie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "fin-vie",
+            "Subcategory4": "euthanasie-soins-palliatifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-financiere/aide-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-financiere",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-financiere/allocation-vie-chere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-financiere",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-financiere/avance-recouvrement-pension-alimentaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-financiere",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-financiere/revenu-inclusion-sociale-revis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-financiere",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-financiere/participation-accueil-gerontologique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-financiere",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-enfance/soutien-enfant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-enfance/famille-accueil.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aide-enfance/appel-enfants-disparus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aides-logement/garantie-locative.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/aides-logement/louer-bien-agence-immobiliere-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/soins-sante/tiers-payant-social.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "soins-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/assistance-judiciaire/demander-assistance-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "assistance-judiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/action-sociale/subvention-loyer.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "action-sociale",
+            "Subcategory4": "subvention-loyer",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/sante-social/reglement-dettes/surendettement/surendettement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Sante / Social",
+            "Subcategory3": "reglement-dettes",
+            "Subcategory4": "surendettement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux/sejour-travail-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux/circulation-lux-uk.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux/permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux/assurance-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux/assurance-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-lux/protection-donnees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/sejour-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/circulation-lux-uk.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/nationalite-luxembourgeoise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/allocations-familiales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/assurance-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/assurance-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/scolarite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/protection-donnees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/faq-brexit/brexit-citoyens-brit/emploi-fonction-publique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "faq-brexit",
+            "Subcategory4": "brexit-citoyens-brit",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/immigration/document-sejour-ressortissant-britannique-membre-famille.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "Immigration",
+            "Subcategory4": "document-sejour-ressortissant-britannique-membre-famille",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/immigration/document-sejour-membre-famille-ressortissant-britannique-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "Immigration",
+            "Subcategory4": "document-sejour-membre-famille-ressortissant-britannique-pays-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/immigration/demande-document-sejour-permanent-ressortissant-britannique-membre-famille-ressortissant-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "Immigration",
+            "Subcategory4": "demande-document-sejour-permanent-ressortissant-britannique-membre-famille-ressortissant-pays-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/immigration/document-ressortissant-britannique-droits-travailleur-frontalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "Immigration",
+            "Subcategory4": "document-ressortissant-britannique-droits-travailleur-frontalier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/immigration/perte-vol-deterioration-document-sejour-ressortissant-britannique-membre-famille-beneficiaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "Immigration",
+            "Subcategory4": "perte-vol-deterioration-document-sejour-ressortissant-britannique-membre-famille-beneficiaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/allocations-familiales/allocations-familiales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "allocations-familiales",
+            "Subcategory4": "allocations-familiales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/education/inscription-enseignement-fondamental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "education",
+            "Subcategory4": "inscription-enseignement-fondamental",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/education/inscrire-enfant-12-ans-enseignement-luxembourgeois.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "education",
+            "Subcategory4": "inscrire-enfant-12-ans-enseignement-luxembourgeois",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/securite-sociale/carte-securite-sociale-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "securite-sociale",
+            "Subcategory4": "carte-securite-sociale-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/securite-sociale/soins-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "securite-sociale",
+            "Subcategory4": "soins-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/securite-sociale/UE-EEE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "securite-sociale",
+            "Subcategory4": "UE-EEE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/securite-sociale/pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "securite-sociale",
+            "Subcategory4": "pays-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/securite-sociale/etudes-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "securite-sociale",
+            "Subcategory4": "etudes-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/permis-conduire/transcription-enregistrement-permis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "permis-conduire",
+            "Subcategory4": "transcription-enregistrement-permis",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/permis-conduire/validite-permis-eee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "permis-conduire",
+            "Subcategory4": "validite-permis-eee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/detachement-etranger/detachement-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "detachement-etranger",
+            "Subcategory4": "detachement-luxembourg",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/detachement-etranger/detachement-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "detachement-etranger",
+            "Subcategory4": "detachement-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/importation-marchandise/importation-marchandises-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "importation-marchandise",
+            "Subcategory4": "importation-marchandises-luxembourg",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/importation-marchandise/importation-marchandises-envoi-postal-express.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "importation-marchandise",
+            "Subcategory4": "importation-marchandises-envoi-postal-express",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/brexit/protection-donnees/reclamation-cnpd.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Brexit",
+            "Subcategory3": "protection-donnees",
+            "Subcategory4": "reclamation-cnpd",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

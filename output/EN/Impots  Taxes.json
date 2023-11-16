@@ -1,0 +1,1764 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/perception-salaire/revenu-occupation-salariee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "perception-salaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/perception-salaire/credit-impot-salaire-social-minimum.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "perception-salaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/declaration-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "declaration-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/declaration-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "declaration-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/declaration-resident/declaration-impot-electronique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "declaration-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/declaration-resident/decompte-annuel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "declaration-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/declaration-resident/regularisation-impots.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "declaration-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/fiche-retenue-impot/demander-modifier-fiche-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/fiche-retenue-impot/imposition-collective-individuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/imposition-collective-individuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/enfant-bonification-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/enfant-hors-menage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/enfant-moderation-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/enfant-credit-impot-monoparental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/changement-situation-perso/deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/declarer-residence-principale-secondaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/frais-professionnels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/interets-immeuble-inoccupe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/rentes-conjoint-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/contrat-prevoyance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/regimes-complementaire-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/depenses-deductibles/dons-liberalites.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/allegement-fiscal/beneficier-abattements.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/salarie-hautement-qualifie/exoneration-hautement-qualifie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "salarie-hautement-qualifie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/paiement-impot/payer-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/paiement-impot/recouvrement-force.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-resident/paiement-impot/contester-decision-ACD.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/perception-salaire/revenu-occupation-salariee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "perception-salaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/perception-salaire/credit-impot-salaire-social-minimum.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "perception-salaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident/assimilation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident/declaration-impot-electronique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident/decompte-annuel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/declaration-revenu-non-resident/regularisation-impots.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/fiche-retenue-impot/demander-modifier-fiche-nonresident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/fiche-retenue-impot/imposition-collective-individuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/imposition-collective-individuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/enfant-bonification-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/enfant-hors-menage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/enfant-moderation-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/enfant-credit-impot-monoparental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/changement-situation-perso/deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/declarer-residence-principale-secondaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/frais-professionnels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/interets-immeuble-inoccupe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/rentes-conjoint-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/contrat-prevoyance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/regimes-complementaire-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/depenses-deductibles/dons-liberalites.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/allegement-fiscal/beneficier-abattements.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/specificites-fiscales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "specificites-fiscales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/salarie-hautement-qualifie/exoneration-hautement-qualifie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "salarie-hautement-qualifie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/paiement-impot/payer-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/paiement-impot/recouvrement-force.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/activite-salariee-non-resident/paiement-impot/contester-decision-ACD.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "activite-salariee-non-resident",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/inscription-adm-fiscales/inscrire-tva.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "inscription-adm-fiscales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenus/revenu-profession-liberale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenus/tantieme-jetons-presence.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-resident/regularisation-impots.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-non-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-non-resident/assimilation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/declaration-revenu-non-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/specificites-fiscales-frontaliers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "specificites-fiscales-frontaliers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/rentes-conjoint-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/contrat-prevoyance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/regimes-complementaire-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/depenses-deductibles/dons-liberalites.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/changement-situation-perso/mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/changement-situation-perso/partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/changement-situation-perso/divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/changement-situation-perso/deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/allegement-fiscal/beneficier-abattements.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/terrain-bien-immobilier/impot-foncier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "terrain-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/paiement-impot-du/payer-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "paiement-impot-du",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/paiement-impot-du/recouvrement-force-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "paiement-impot-du",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/exercice-activite-independant/paiement-impot-du/contester-decision-ACD.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "exercice-activite-independant",
+            "Subcategory4": "paiement-impot-du",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/location/declarer-revenu-location.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/location/bien-immobilier-meuble-location-temporaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/vente/declaration-vente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "vente",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/specificites-fiscales-frontaliers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "specificites-fiscales-frontaliers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-non-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-non-resident/assimilation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/declaration-revenu-non-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/depenses-deductibles/declarer-residence-principale-secondaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/depenses-deductibles/interets-immeuble-inoccupe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/depenses-deductibles/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/depenses-deductibles/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/terrain-bien-immobilier/payer-taxes-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "terrain-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/terrain-bien-immobilier/payer-taxe-inoccupation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "terrain-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/terrain-bien-immobilier/impot-foncier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "terrain-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/construction-renovation-bien-immobilier/remboursement-tva-taux-reduit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "construction-renovation-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/achat-bien-immobilier/credit-impot-actes-notaries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "achat-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/bien-immobilier/don-bien-immobilier/faire-donation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "bien-immobilier",
+            "Subcategory4": "don-bien-immobilier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/achat-vehicule-etranger/importation-vehicule-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "achat-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/achat-vehicule-etranger/payer-taxe-vehicule-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "achat-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/proprietaire-vehicule/vehicules-automoteurs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "proprietaire-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/proprietaire-vehicule/paiement-taxe-vehicule-automoteur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "proprietaire-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/voiture-societe-salarie/leasing.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "voiture-societe-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/detention-vehicule/livraison-intracommunautaire/demande-remboursement-tva-moyen-transport-neuf-livraison-intracommunautaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "detention-vehicule",
+            "Subcategory4": "livraison-intracommunautaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/succession/acceptation-refus-succession.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "succession",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/succession/droits-succession-heritage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "succession",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/succession/declaration-succession.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "succession",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/donation/faire-donation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "donation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/testament/succession-avec-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/heritage-donation-patrimoine/testament/succession-sans-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "heritage-donation-patrimoine",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/etablissement-fiche-retenue-impot/demander-modifier-fiche-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/etablissement-fiche-retenue-impot/demander-modifier-fiche-nonresident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/etablissement-fiche-retenue-impot/imposition-collective-individuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/perception-pension/identifier-declarer-pension-legale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "perception-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/perception-pension/plan-prevoyance-vieillesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "perception-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/perception-pension/traitement-fiscal-pension-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "perception-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/perception-rente/identifier-declarer-rente-conjoint-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "perception-rente",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/specificites-fiscales-frontaliers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "specificites-fiscales-frontaliers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-non-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-non-resident/assimilation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/declaration-revenu-non-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/imposition-collective-individuelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/enfant-bonification-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/enfant-hors-menage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/enfant-moderation-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/enfant-credit-impot-monoparental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/changement-situation-perso/deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "changement-situation-perso",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/frais-professionnels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/rentes-conjoint-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/contrat-prevoyance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/regimes-complementaire-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/depenses-deductibles/dons-liberalites.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "depenses-deductibles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/allegement-fiscal/beneficier-abattements.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "allegement-fiscal",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/paiement-impot/payer-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/paiement-impot/recouvrement-force.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente/paiement-impot/contester-decision-ACD.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "pension-rente",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/banque-dividende-interets/banque-luxembourgeoise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "banque-dividende-interets",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/banque-dividende-interets/identifier-declarer-dividendes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "banque-dividende-interets",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/banque-dividende-interets/achat-vente-actions.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "banque-dividende-interets",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-non-resident/obligation-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-non-resident/assimilation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/declaration-revenu-non-resident/declaration-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "declaration-revenu-non-resident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/specificites-fiscales-frontaliers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "specificites-fiscales-frontaliers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/paiement-impot/payer-impot-du.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/paiement-impot/recouvrement-force.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/patrimoine-financier/paiement-impot/contester-decision-ACD.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "patrimoine-financier",
+            "Subcategory4": "paiement-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/obligations-employeur/remuneration-salarie/extrait-salaire-pension.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "obligations-employeur",
+            "Subcategory4": "remuneration-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/importation/importation-marchandises/importation-marchandises-envoi-postal-express.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "importation",
+            "Subcategory4": "importation-marchandises",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/certificats/proprietes-immobilieres/certificat-propriete.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "certificats",
+            "Subcategory4": "proprietes-immobilieres",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/impots-taxes/certificats/certificat-residence-fiscale/demander-certificat-residence-fiscale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Impots / Taxes",
+            "Subcategory3": "certificats",
+            "Subcategory4": "certificat-residence-fiscale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

@@ -1,0 +1,824 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/conge-extraordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/declaration-partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/effets-legaux-partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/inscription-partenariat-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/fiscalite-partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/fin-partenariat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/partenariat-pacs/fiscalite-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "partenariat-pacs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/mariage/regime-matrimonial.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/mariage/preparation-mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/mariage/conge-extraordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/mariage/mariage-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/mariage/reconnaissance-mariage-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/mariage/fiscalite-mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "mariage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/transcription-separation-divorce-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/droit-garde-enfants.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/autorite-parentale-conjointe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/saisie-pension-alimentaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/avance-recouvrement-pension-alimentaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/fiscalite-divorce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/divorce-consentement-mutuel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/separation-divorce/divorce-rupture-irremediable-relations-conjugales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "separation-divorce",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/certificats/certificat-celibat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/certificats/acte-mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/vie-maritale/certificats/certificat-autorisation-parentale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "vie-maritale",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/obligation-naissance/declarer-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "obligation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/obligation-naissance/prenom-nom-enfant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "obligation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/adoption/adoption-pleniere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "adoption",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/adoption/adoption-simple.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "adoption",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/allocation-naissance/allocation-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "allocation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/allocation-naissance/allocations-familiales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "allocation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/allocation-naissance/allocation-supplementaire-enfant-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "allocation-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/conges-naissance/conge-extraordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "conges-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/conges-naissance/conge-maternite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "conges-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/conges-naissance/conge-parental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "conges-naissance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/garde-enfants/garde-domicile.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/garde-enfants/accueil-au-pair.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/garde-enfants/devenir-jeune-pair-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/garde-enfants/engager-personnel-menage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/garde-enfants/garde-structure-accueil.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/garde-enfants/cheque-service.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "garde-enfants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/assistance-enfance/bilan-30.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "assistance-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/assistance-enfance/projet-accueil-individualise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "assistance-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/assistance-enfance/aide-precoce.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "assistance-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/parents/assistance-enfance/rdv-vision-test-10-vision-test-40.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "parents",
+            "Subcategory4": "assistance-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/seniors/aides-specifiques/amenagement-speciaux-personnes-handicapees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/seniors/aides-specifiques/aides-personnes-agees-dependantes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/seniors/testament/recherche-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/seniors/testament/succession-avec-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/seniors/testament/succession-sans-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "seniors",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/assurance-dependance/prise-charge-dependance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "assurance-dependance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/assurance-dependance/milieu-stationnaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "assurance-dependance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/assurance-dependance/participation-accueil-gerontologique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "assurance-dependance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/assurance-dependance/prestations-domicile.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "assurance-dependance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/assurance-dependance/mesure-exceptionnelle-soutien-intensif-extrahospitalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "assurance-dependance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/aides-specifiques/aides-techniques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/aides-specifiques/amenagement-speciaux-personnes-handicapees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/aides-specifiques/aides-travaux-adaptation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "aides-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/dependance/embauche-personnel-aide-personnes-dependantes/engager-personnel-menage-prive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "dependance",
+            "Subcategory4": "embauche-personnel-aide-personnes-dependantes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes/allocation-vie-chere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-menages-revenus-modestes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes/assistance-precarite-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-menages-revenus-modestes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes/avance-recouvrement-pension-alimentaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-menages-revenus-modestes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes/participation-accueil-gerontologique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-menages-revenus-modestes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes/revenu-inclusion-sociale-revis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-menages-revenus-modestes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-enfance/soutien-enfant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/mesures-action-sociale/aide-enfance/famille-accueil.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "mesures-action-sociale",
+            "Subcategory4": "aide-enfance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/euthanasie-soins-palliatifs/fin-de-vie/beneficier-soins-palliatifs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "euthanasie-soins-palliatifs",
+            "Subcategory4": "fin-de-vie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/euthanasie-soins-palliatifs/fin-de-vie/euthanasie-assistance-suicide.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "euthanasie-soins-palliatifs",
+            "Subcategory4": "fin-de-vie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/euthanasie-soins-palliatifs/fin-de-vie/conge-accompagnement-fin-vie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "euthanasie-soins-palliatifs",
+            "Subcategory4": "fin-de-vie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/testament/succession-avec-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/testament/succession-sans-testament.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "testament",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/declaration-deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/conge-extraordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/enterrement-incineration.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/fiscalite-deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/declaration-succession.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/acceptation-refus-succession.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/deces-proche/droits-succession-heritage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "deces-proche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/prestations-survivants/indemnite-funeraire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "prestations-survivants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/prestations-survivants/pension-survie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "prestations-survivants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/deces-disparition/prestations-survivants/pension-orphelin.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "deces-disparition",
+            "Subcategory4": "prestations-survivants",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/famille/animaux-domestiques/acquisition-chien/identifier-declarer-chien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Famille",
+            "Subcategory3": "animaux-domestiques",
+            "Subcategory4": "acquisition-chien",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

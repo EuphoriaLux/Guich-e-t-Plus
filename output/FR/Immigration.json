@@ -1,0 +1,1094 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/citoyen-UE/conditions-entree/sejour-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/citoyen-UE/specificites/transfere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/citoyen-UE/specificites/detache-entreprise-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/citoyen-UE/specificites/detache-entreprise-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/membre-famille-UE/sejour-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/membre-famille-UE/entree-visa.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/ressortissant-tiers/entree-visa.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/ressortissant-tiers/sejour.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/ressortissant-tiers/sejour-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/moins-3-mois/ressortissant-tiers/saisonnier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "moins-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/conditions-entree/sejour-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/specificites/transfere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/specificites/detache-entreprise-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/specificites/detache-entreprise-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/perte-vol-document/perte-vol-attestation-sejour.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans/attestation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans/naturalisation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "citoyen-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/demarches-communes/entree-visa.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/demarches-communes/controle-medical.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie/salarie-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/hautement-qualifie/salarie-hautement-qualifie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie-transfere/transfert-intragroupe-ICT.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie-detache/detache-entreprise-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/salarie-detache/detache-entreprise-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/saisonnier/saisonnier-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/travailleur-independant/independant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/sportif-entraineur/sportif-entraineur-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/regroupement-familial.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/exercice-activite-salariee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/raisons-privees/travail-raisons-privees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/raisons-privees/sejour-raisons-privees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/eleve/scolarite-4-ans.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/eleve/eleve-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/etudiant-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/mobilite-etudiant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/sejour-luxembourg-apres-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/stagiaire/stage-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/chercheur/chercheur-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/chercheur/mobilite-chercheur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/chercheur/sejour-chercheur-apres-recherche.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/volontariat/volontaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/jeune-au-pair/au-pair-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/investisseur/investisseur-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/investisseur/avis-ministere-finances.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/sejour-5-ans/statut-resident-longue-duree-ressortissant-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/sejour-5-ans/naturalisation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-tiers/perte-vol-document/perte-vol-titre-sejour.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/membre-famille-UE/conditions-entree/membre-famille-UE.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/membre-famille-UE/perte-vol-document/perte-vol-carte-sejour.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/membre-famille-UE/sejour-5-ans/carte-sejour-permanent-membre-famille.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/membre-famille-UE/sejour-5-ans/naturalisation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "membre-famille-UE",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-britannique/document-sejour-ressortissant-britannique-membre-famille.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-britannique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-britannique/document-sejour-membre-famille-ressortissant-britannique-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-britannique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-britannique/demande-document-sejour-permanent-ressortissant-britannique-membre-famille-ressortissant-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-britannique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-britannique/document-ressortissant-britannique-droits-travailleur-frontalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-britannique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/plus-3-mois/ressortissant-britannique/perte-vol-deterioration-document-sejour-ressortissant-britannique-membre-famille-beneficiaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "plus-3-mois",
+            "Subcategory4": "ressortissant-britannique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/travailleur-frontalier-tiers/frontalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "travailleur-frontalier-tiers",
+            "Subcategory4": "frontalier",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/travailleur-frontalier-tiers/dispense-autorisation-travail-frontalier-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "travailleur-frontalier-tiers",
+            "Subcategory4": "dispense-autorisation-travail-frontalier-tiers",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/demande-protection-internationale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "protection-internationale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/droits-protection-internationale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "protection-internationale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/perte-retrait-protection.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "protection-internationale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/autorisation-occupation-temporaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "protection-internationale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/renouvellement-titre-sejour.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "protection-internationale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/apatride/demande-statut-apatride.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "apatride",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/sursis-report-eloignement/embauche-report-sursis-eloignement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "sursis-report-eloignement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/voyages-scolaires/voyages-protection-internationale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "cas-specifiques",
+            "Subcategory4": "voyages-scolaires",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/arrivee-luxembourg/depart-arrivee-commune.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "arrivee-luxembourg",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/arrivee-luxembourg/contrat-accueil-integration.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "arrivee-luxembourg",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/arrivee-luxembourg/declarer-biens-personnels-douanes-demenagement-pays-tiers-vers-Luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "arrivee-luxembourg",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/affiliation-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/carte-securite-sociale-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/detachement-Luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/etudes-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/revenu-remplacement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/assurance-maladie-volontaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/medecin-referent.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/prestations-sante/stagiaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "prestations-sante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-niveau-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-bac-maturite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-equivalence-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/homologation-inscription/homologation-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/reconnaissance-diplome/homologation-inscription/inscription-registre-titres.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "reconnaissance-diplome",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/travail-emploi/inscription-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Travail / Emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/travail-emploi/visite-medicale-embauche.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Travail / Emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/travail-emploi/engager-personnel-menage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Travail / Emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/fiscalite/demander-modifier-fiche-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "fiscalite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/retranscription-actes/reconnaissance-mariage-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "retranscription-actes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/retranscription-actes/inscription-partenariat-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "retranscription-actes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/retranscription-actes/transcription-separation-divorce-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "retranscription-actes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/retranscription-actes/transcription-enregistement-permis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "retranscription-actes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/ecole-langues/cellule-accueil-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "ecole-langues",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/ecole-langues/inscription-uni-lux-ressortissants-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "ecole-langues",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/ecole-langues/nouvel-arrivant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "ecole-langues",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/ecole-langues/cours-langues.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "ecole-langues",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/vehicule/vehicule-demenagement-transfrontalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/vehicule/validite-permis-eee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/logement/conclure-contrat-bail-location.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/logement/acquerir-bien-a-construire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/logement/autorisation-batir.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/logement/louer-bien-agence-immobiliere-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "Logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/declaration-devises/declaration-paiement-devises.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "declaration-devises",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/participation-elections/inscription-listes-electorales-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "participation-elections",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/participation-elections/inscription-listes-electorales-europeennes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "participation-elections",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/loisirs/identifier-declarer-chien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "loisirs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/nouveau-resident-luxembourg/loisirs/inscription-bnl.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "nouveau-resident-luxembourg",
+            "Subcategory4": "loisirs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/ukraine/protection-temporaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "ukraine",
+            "Subcategory4": "protection-temporaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/ukraine/effectuer-voyage-scolaire-jeune-ukrainien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "ukraine",
+            "Subcategory4": "effectuer-voyage-scolaire-jeune-ukrainien",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/immigration/ukraine/changement-statut-beneficiaire-protection-temporaire-ukraine.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Immigration",
+            "Subcategory3": "ukraine",
+            "Subcategory4": "changement-statut-beneficiaire-protection-temporaire-ukraine",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

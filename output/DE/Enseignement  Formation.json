@@ -1,0 +1,424 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/inscription/inscription-enseignement-fondamental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "inscription",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/inscription/nouvel-arrivant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "inscription",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/inscription/mediateur-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "inscription",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/besoins-specifiques/besoins-specifiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "besoins-specifiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/aides-conseils/accompagnement-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "aides-conseils",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/parascolaire/demarche-cheque-service.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "parascolaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/education-prescolaire-primaire/orientation-fin-primaire/recours-orientation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "education-prescolaire-primaire",
+            "Subcategory4": "orientation-fin-primaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/inscription-public/inscrire-enfant-12-ans-enseignement-luxembourgeois.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "inscription-public",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/inscription-public/mediateur-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "inscription-public",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/jeune-recemment-arrive-pays/reconnaissance-etudes/reconnaissance-niveau-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "jeune-recemment-arrive-pays",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/jeune-recemment-arrive-pays/reconnaissance-etudes/reconnaissance-bac-maturite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "jeune-recemment-arrive-pays",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/jeune-recemment-arrive-pays/reconnaissance-etudes/reconnaissance-equivalence-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "jeune-recemment-arrive-pays",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/jeune-recemment-arrive-pays/service-scolarisation-enfants-etrangers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "jeune-recemment-arrive-pays",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/aides-postprimaire/accompagnement-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "aides-postprimaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/aides-postprimaire/amenagements-raisonnables.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "aides-postprimaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/aides-postprimaire/mybooks.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "aides-postprimaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/aides-postprimaire/aides-financieres-secondaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "aides-postprimaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/enseignement-postprimaire/aides-postprimaire/subsides-secondaire-detresse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "enseignement-postprimaire",
+            "Subcategory4": "aides-postprimaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/inscription-etudes-superieures/inscription-uni-lux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-etudes-superieures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/inscription-etudes-superieures/inscription-uni-lux-ressortissants-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-etudes-superieures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/inscription-etudes-superieures/semestre-mobilite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-etudes-superieures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/inscription-etudes-superieures/erasmus.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-etudes-superieures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/aides-logement/aide-financiere.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/reconnaissance-diplomes/reconnaissance-titres-formation-etranger-profession-reglementee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "reconnaissance-diplomes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/reconnaissance-diplomes/homologation-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "reconnaissance-diplomes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/reconnaissance-diplomes/inscription-registre-titres.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "reconnaissance-diplomes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/inscription-enseignement-professionnel/inscription-bts.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "inscription-enseignement-professionnel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/activite-professionnelle/contrat-etudiant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "activite-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/etudes-superieures/activite-professionnelle/convention-stage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "etudes-superieures",
+            "Subcategory4": "activite-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/e-bac.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/brevet-maitrise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/secondaire-technique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/enseignement-superieur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/validation-acquis/vae-diplome-secondaire-technique-brevet-maitrise.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/validation-acquis/vae-formation-continue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/diplomante/validation-acquis/vae-bachelor-master-bts.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/non-diplomante/cours-langues.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "non-diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/non-diplomante/cours-generaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "non-diplomante",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/professionnelle/formation-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/conge/conge-individuel-formation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/enseignement-formation/formation-adultes/conge/conge-sans-solde-formation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Enseignement / Formation",
+            "Subcategory3": "formation-adultes",
+            "Subcategory4": "conge",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

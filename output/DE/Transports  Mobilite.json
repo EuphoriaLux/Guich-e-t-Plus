@@ -1,0 +1,514 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/cartes-transports/carte-invalidite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "cartes-transports",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/cartes-transports/carte-mobilite-reduite-adapto.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "cartes-transports",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/cartes-transports/circulation-transports-publics.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "cartes-transports",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/droits-voyageurs/droit-passagers-bateaux0.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/droits-voyageurs/droit-passagers-aeriens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/droits-voyageurs/droit-passagers-ferroviaires0.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-commun/droits-voyageurs/droit-passagers-autocars.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-commun",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/rdv-accueil-guichet-lu.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/conduite-accompagnee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/rdv-snca-permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/info-permis-points.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/certificat-authenticite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/prolongation-permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/remplacement-permis-vole.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/retrait-immediat-permis-conduire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/echange-automatique-information.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/validite-permis-eee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/transcription-enregistement-permis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/permis-conduire/permis-conduire-international.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "permis-conduire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/acheter-vehicule-neuf.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/acheter-vehicule-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/numero-immatriculation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/reimmatriculation-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/mise-hors-circulation-temporaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/remise-circulation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/vendre-vehicule-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/mise-hors-circulation-definitive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/conformite-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/controle-technique-obligatoire-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/pneus-hiver.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/duplicata-document.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "vehicule-motorise",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/acheter-vehicule-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "achat-importation-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/importation-vehicule-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "achat-importation-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/payer-taxe-vehicule-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "achat-importation-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/vehicule-demenagement-transfrontalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "achat-importation-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/rdv-douanes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "achat-importation-vehicule-etranger",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/aides-financieres-acquisition-detention-vehicule/installation-bornes-charges-privees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "aides-financieres-acquisition-detention-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/aides-financieres-acquisition-detention-vehicule/paiement-taxe-vehicule-automoteur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "aides-financieres-acquisition-detention-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/aides-financieres-acquisition-detention-vehicule/deduction-mobilite-durable-velo.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "aides-financieres-acquisition-detention-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/aides-financieres-acquisition-detention-vehicule/deduction-mobilite-durable-2019.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "aides-financieres-acquisition-detention-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/aides-financieres-acquisition-detention-vehicule/aide-prix-charge-vehicules-bornes-electriques-public.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "aides-financieres-acquisition-detention-vehicule",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/stationnement/vignette-stationnement-residentiel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "stationnement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/stationnement/carte-stationnement-handicapes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "stationnement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/infractions/avertissement-taxe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "infractions",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/infractions/payer-contester-avertissement-taxe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "infractions",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/degats-accidents/degat-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "degats-accidents",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/voiture-societe-salarie/leasing.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "voiture-societe-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/voiture-societe-salarie/taxe-circulation-belgique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "voiture-societe-salarie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/livraison-intracommunautaire/demande-remboursement-tva-moyen-transport-neuf-livraison-intracommunautaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Transports / Mobilite",
+            "Subcategory3": "transports-individuels",
+            "Subcategory4": "livraison-intracommunautaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

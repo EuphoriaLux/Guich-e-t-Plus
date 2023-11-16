@@ -1,0 +1,784 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux/demande-kulturpass.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux/luxembourg-card.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux/minerval-enseignement-musical.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux/inscription-bnl.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux/depot-legal-bnl.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/activites-culturelles-lux/depot-legal-cna.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "activites-culturelles-lux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/statut-artiste/artiste-professionnel-independant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/statut-artiste/intermittent-spectacle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/statut-artiste/demande-bourse-aide-creation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/patrimoine-culturel/classement-bien-mobilier-patrimoine-culturel-national.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "patrimoine-culturel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/patrimoine-culturel/demande-subvention-restauration-biens-culturels.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "patrimoine-culturel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/patrimoine-culturel/inscription-patrimoine-immateriel-national.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "patrimoine-culturel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/culture-tourisme/patrimoine-culturel/classement-bien-immeuble-patrimoine-archeologique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "culture-tourisme",
+            "Subcategory4": "patrimoine-culturel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/voyages/work-and-travel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "voyages",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/visa-sejour-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/conclure-voyage-forfait.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/prestation-voyage-liee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/vente-voyages-forfaits.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/timeshare.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/declaration-sejour-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/demander-assistance-consulaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/droit-passagers-aeriens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/droit-passagers-ferroviaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/droit-passagers-autocars.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/droit-passagers-bateaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/commission-litiges-voyage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/declaration-paiement-devises.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/tourisme/droits-voyageurs/importation-marchandises-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "tourisme",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/pratique-activite-sportive/controle-medico-sportif.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "pratique-activite-sportive",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/pratique-activite-sportive/conge-sportif.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "pratique-activite-sportive",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/pratique-activite-sportive/brevet-sportif-national.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "pratique-activite-sportive",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/sportif-entraineur-pays-tiers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "encadrement-sportif",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/subside-club-sportif.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "encadrement-sportif",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/formation-inaps.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "encadrement-sportif",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/activites-sportives/encadrement-sportif/homologation-diplome-formation-secteur-sports.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "activites-sportives",
+            "Subcategory4": "encadrement-sportif",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-peche/permis-peche-eaux-interieures.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-peche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-peche/permis-peche-eaux-frontalieres-allemagne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-peche",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/permis-chasse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/declaration-battue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/permis-chasser-3-jours-invite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/syndicats-chasse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/declaration-coordonnees-bancaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/certificat-aptitude-chasse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/pratique-chasse/constat-indemnisation-degats-gibier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "pratique-chasse",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/permis-navigation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/reconnaissance-permis-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/prorogation-permis-navigation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/immatriculation-batiment-plaisance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/prorogation-certificat-immatriculation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/duplicata-certificat-permis-endossement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/exercice-navigation/radiation-bateau-plaisance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "exercice-navigation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/rucher-abeilles/ruchers-abeilles.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "rucher-abeilles",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/detention-armes/autorisation-armes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "detention-armes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/detention-armes/transfert-armes-hors-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "detention-armes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/permis-licences/detention-armes/transfert-armes-vers-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "permis-licences",
+            "Subcategory4": "detention-armes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/autorisation-manifestation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/autorisation-boissons-alcooliques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/redevance-sacem.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/panneaux-publicitaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/hygiene-alimentaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/modification-circulation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/aide-organisation-conference.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/organisation-evenement-sportif-voie-publique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/organisation-manifestation/logo-green-events.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "organisation-manifestation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/service-volontaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/attestation-jeune-benevole.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/volontaire-services-secours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/creation-asbl.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/modification-statutaire-fondation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/reconnaissance-statut-utilite-publique-asbl.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/creation-fondation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/modification-statuts-asbl-utilite-publique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/engagement-benevole/approbation-dons-legs-asbl-fondation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "engagement-benevole",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/conges-speciaux/conge-volontaire-services-secours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "conges-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/conges-speciaux/conge-cooperation-developpement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "conges-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/milieu-associatif/conges-speciaux/conge-jeunesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "milieu-associatif",
+            "Subcategory4": "conges-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/loisirs-benevolat/animaux-compagnie/obligations-legales/identifier-declarer-chien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Loisirs / Benevolat",
+            "Subcategory3": "animaux-compagnie",
+            "Subcategory4": "obligations-legales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

@@ -1,0 +1,1354 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/carte-identite/nouv-carte-identite-adulte-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "carte-identite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/carte-identite/nouv-carte-identite-adulte-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "carte-identite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/carte-identite/perte-vol.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "carte-identite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/carte-identite/rdv-accueil-guichet-lu.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "carte-identite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/carte-identite/demander-nouveaux-codes-pin-puk-carte-identite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "carte-identite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/titre-voyage/visa-sejour-hors-ue.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "titre-voyage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/titre-voyage/passeport-biometrique-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "titre-voyage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/titre-voyage/passeport-biometrique-non-resident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "titre-voyage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/titre-voyage/rdv-bureau-passeports.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "papiers-identite",
+            "Subcategory4": "titre-voyage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/casier-judiciaire/extrait-casier-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "casier-judiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/acte-naissance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/acte-mariage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/acte-deces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/certificat-residence.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/certificat-autorisation-parentale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/certificat-signature-copie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/legalisation-signature.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/legalisation-actes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/copie-conforme.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/certificat-inscription-listes-electorales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/certificat-nationalite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "certificat-copie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/certificat-casier-judiciaire/antecedents-judicaires/verification-antecedents-police-grand-ducale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "certificat-casier-judiciaire",
+            "Subcategory4": "antecedents-judicaires",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/accessibilite/mesure-accessibilite/aide-financiere-subvention-capital.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "accessibilite",
+            "Subcategory4": "mesure-accessibilite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/accessibilite/mesure-accessibilite/demande-amenagement-raisonnable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "accessibilite",
+            "Subcategory4": "mesure-accessibilite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/accessibilite/mesure-accessibilite/respect-exigences-accessibilite-lieu-ouvert-public.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "accessibilite",
+            "Subcategory4": "mesure-accessibilite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/accessibilite/mesure-accessibilite/etablissement-certificat-conformite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "accessibilite",
+            "Subcategory4": "mesure-accessibilite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/installation-demenagement-luxembourg/declaration-arrivee/depart-arrivee-commune.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": "declaration-arrivee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/installation-demenagement-luxembourg/arrivee/inscription-partenariat-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": "arrivee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/installation-demenagement-luxembourg/arrivee/reconnaissance-mariage-etranger.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": "arrivee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/installation-demenagement-luxembourg/arrivee/transcription-enregistement-permis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "installation-demenagement-luxembourg",
+            "Subcategory4": "arrivee",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/registre-national/identification-registre-national/consultation-registre-national.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "registre-national",
+            "Subcategory4": "identification-registre-national",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/registre-national/identification-registre-national/validation-donnees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "registre-national",
+            "Subcategory4": "identification-registre-national",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/registre-national/identification-registre-national/rectification-mise-a-jour.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "registre-national",
+            "Subcategory4": "identification-registre-national",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/acces-information/acces-informations-institutions/communication-document-administrations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "acces-information",
+            "Subcategory4": "acces-informations-institutions",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/acces-information/acces-archives-publiques/demande-derogation-consultation-reproduction-archives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "acces-information",
+            "Subcategory4": "acces-archives-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-donnees/reclamation-cnpd0/reclamation-cnpd.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-donnees",
+            "Subcategory4": "reclamation-cnpd0",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/choix-chgt-nom-prenom/nom-prenom/prenom-nom-enfant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "choix-chgt-nom-prenom",
+            "Subcategory4": "nom-prenom",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/choix-chgt-nom-prenom/nom-prenom/changement-nom-prenom.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "choix-chgt-nom-prenom",
+            "Subcategory4": "nom-prenom",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/choix-chgt-nom-prenom/nom-prenom/modification-sexe-prenom.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "choix-chgt-nom-prenom",
+            "Subcategory4": "nom-prenom",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/possession-automatique/effet-loi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "possession-automatique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/conditions-prealables.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "acquisition-recouvrement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/option.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "acquisition-recouvrement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/naturalisation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "acquisition-recouvrement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/recouvrement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "acquisition-recouvrement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/perte/renonciation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "perte",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/perte/decheance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "nationalite-luxembourgeoise",
+            "Subcategory4": "perte",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-communales/inscription-listes-electorales-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-communales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-communales/listes-electorales-reclamations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-communales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-communales/vote-correspondance-elections-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-communales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-communales/impossibilite-vote-elections-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-communales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-communales/candidat-elections-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-communales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-legislatives/inscription-listes-electorales-legislatives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-legislatives/listes-electorales-reclamations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-legislatives/vote-elections-legislatives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-legislatives/vote-correspondance-elections-legislatives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-legislatives/impossibilite-vote-elections-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-legislatives/candidat-election-legislatives.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-legislatives",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-europeennes/inscription-listes-electorales-europeennes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-europeennes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-europeennes/listes-electorales-reclamations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-europeennes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-europeennes/vote-correspondance-elections-europeennes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-europeennes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-europeennes/impossibilite-vote-elections-communales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-europeennes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-europeennes/candidat-election-europeennes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-europeennes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/referendum/voter-referendum.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "referendum",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/referendum/vote-correspondance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "referendum",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/referendum/declarer-impossibilite-voter-elections-referendum.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "referendum",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/referendum/voter-referendum-communal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "referendum",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/referendum/vote-correspondance-referendum-communal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "referendum",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-sociales/organisation-elections.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-sociales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/elections/elections-sociales/elections-chambre-salaries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "elections",
+            "Subcategory4": "elections-sociales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/depot-requetes-petition/petition-chambre-deputes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "depot-requetes-petition",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/niveau-europeen/petition-parlement-europeen.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "niveau-europeen",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/niveau-europeen/initiative-citoyenne-europeenne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "niveau-europeen",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/enquetes-publiques/contribuer-enquete-publique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-eu-silc.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/democratie-participative/enquetes-publiques/enquete-education-adultes-2022.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "democratie-participative",
+            "Subcategory4": "enquetes-publiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/garantie-conformite/garantie-conformite-application.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "garantie-conformite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/contrat-distance/services-financiers-distance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "contrat-distance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/contrat-distance/conclusion-contrat-distance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "contrat-distance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/contrat-distance/retractation-contrat-distance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "contrat-distance",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/credit-consommation/conclusion-credit-conso.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credit-consommation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/credit-consommation/intermediaire-credit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credit-consommation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/credits-speciaux/contrat-credit-depassement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credits-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/credits-speciaux/contrat-defaut-paiement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credits-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/credits-speciaux/credit-facilite-decouvert.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "credits-speciaux",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/indication-prix/indication-produits-services.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "indication-prix",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/identification-pratique-deloyale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "pratiques-deloyales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/denonciation-pratique-deloyale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "pratiques-deloyales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/pratiques-deloyales/protection-lanceurs-alerte.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "pratiques-deloyales",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/colportage-consommation/liberalisation-colportage-droits-consommateur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "colportage-consommation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/reglement-extrajudiciaire/reglement-amiable-litige.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "reglement-extrajudiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/reglement-extrajudiciaire/mediateur-consommation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "reglement-extrajudiciaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/conclure-voyage-forfait.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/prestation-voyage-liee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/vente-voyages-forfaits.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/timeshare.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/droits-des-passegers-aeriens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/droit-passagers-ferroviaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/droit-passagers-autocars.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/droit-passagers-bateaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/commission-litiges-voyage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/declaration-paiement-devises.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/protection-consommateur/droits-voyageurs/importation-marchandises-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "protection-consommateur",
+            "Subcategory4": "droits-voyageurs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/contestation-decision-administrative/recours-decision-administrative.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "contestation-decision-administrative",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/contestation-decision-administrative/contester-decision-ACD.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "contestation-decision-administrative",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/contestation-decision-administrative/juridiction-recours-securite-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "contestation-decision-administrative",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/contestation-decision-administrative/recours-administratifs.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "contestation-decision-administrative",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/plaintes/plaintes-anf.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "plaintes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/plaintes/plainte-aev.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "plaintes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/plaintes/plaintes-age.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "plaintes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/plaintes/depot-plainte-alia.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "plaintes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/ombudsman.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/mediateur-consommation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/reglement-amiable-litige.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/centre-mediation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/mediateur-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/mediation-ilr.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/resolution-litige-cssf.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/mediateur-europeen.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/mediation/SOLVIT-luxembourg.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "mediation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/recours-jugement/jugement-civil.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "recours-jugement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/frais-avocat/demander-assistance-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "frais-avocat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/frais-avocat/frais-avocat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "frais-avocat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/frais-avocat/frais-proces.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "frais-avocat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/frais-avocat/langues-tribunaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "frais-avocat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/frais-avocat/temoignage-justice.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "frais-avocat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/indemnisation-victimes/victimes-infractions-violentes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "indemnisation-victimes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/demande-grace/introduire-demande-grace.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "demande-grace",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/licenciement/contestation-licenciement-tribunal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/voies-recours-reglement-litiges/procedure-europeenne/procedure-UE-petits-litiges.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "voies-recours-reglement-litiges",
+            "Subcategory4": "procedure-europeenne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/demarches-police/declaration/declaration-objet-perdu.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "declaration",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/demarches-police/declaration/declaration-objet-trouve.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "declaration",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/demarches-police/declaration/degat-vehicule.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "declaration",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/demarches-police/plainte/deposer-plainte.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "plainte",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/fr/citoyens/citoyennete/demarches-police/saisie-igp/reclamer-plainte-igp.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Citoyennete",
+            "Subcategory3": "demarches-police",
+            "Subcategory4": "saisie-igp",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

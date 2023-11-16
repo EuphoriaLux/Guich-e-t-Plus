@@ -1,0 +1,1214 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aspects-contractuels/compromis-vente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aspects-contractuels/acquerir-bien-a-construire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-capital/prime-construction-acquisition.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-capital/prime-epargne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-capital/garantie-etat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-interet/subvention-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-interet/subvention-interet-fonctionnaires-employes-etat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-interet/bonification-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-indirectes/credit-impot-actes-notaries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-indirectes/declarer-residence-principale-secondaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-indirectes/interets-immeuble-inoccupe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-indirectes/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/aides-indirectes/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/performances-energie/demande-passeport-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/performances-energie/demande-conseil-myenergy.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/performances-energie/prime-encouragement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/copropriete/extrait-cadastral.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "copropriete",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/copropriete/cadastre-vertical.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "copropriete",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/klimabonus/aide-installations-techniques-regime-2022.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/klimabonus/aide-financiere-construction-logement-durable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/klimabonus/aide-financiere-renovation-energetique-sans-conseil-energie-un-seul-element.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/klimabonus/aide-financiere-renovation-energetique-logement-conseil-energie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/klimabonus/aide-financiere-renovation-energetique-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/prime-house/aide-installations-techniques-regime-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/prime-house/assainissement-energetique-regime-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/prime-house/aide-financiere-conseil-energie-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/prime-house/aide-financiere-logement-durable-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/acquisition/statistiques/enquete-caracteristiques-maisons.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "acquisition",
+            "Subcategory4": "statistiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/bail-a-loyer/conclure-contrat-bail-location.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "bail-a-loyer",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/bail-a-loyer/resiliation-bail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "bail-a-loyer",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/bail-a-loyer/etat-lieux-bail-loyer.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "bail-a-loyer",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/aides-au-logement/garantie-locative.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "aides-au-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/aides-au-logement/subvention-loyer.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "aides-au-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/aides-au-logement/location-logement-subventionne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "aides-au-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/aides-au-logement/louer-bien-agence-immobiliere-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "aides-au-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/copropriete/cadastre-vertical.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "copropriete",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/proprietaire-bien-location/declarer-revenu-location-bien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "proprietaire-bien-location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/proprietaire-bien-location/offrir-location-agence-immo-sociale.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "proprietaire-bien-location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/proprietaire-bien-location/passeport-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "proprietaire-bien-location",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/litige/defense-droits-tribunal-bail-loyer.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "litige",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/litige/regler-litige-fixation-loyer.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "litige",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/recuperation-eau-pluie/systeme-collecte-eau-pluie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "recuperation-eau-pluie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/location/location-temporaire/bien-immobilier-meuble-location-temporaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "location",
+            "Subcategory4": "location-temporaire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aspects-contractuels/compromis-vente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aspects-contractuels/acquerir-bien-a-construire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/construire/autorisation-batir.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/construire/mesurage-propriete.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/construire/vice-construction.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/construire/autorisation-enseigne-publicite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-capital/prime-construction-acquisition.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-capital/prime-epargne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-capital/garantie-etat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-capital/prime-architecte-ingenieur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-capital/amenagement-speciaux-personnes-handicapees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-interet/subvention-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-interet/subvention-interet-fonctionnaires-employes-etat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-interet/bonification-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-indirectes/credit-impot-actes-notaries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-indirectes/declarer-residence-principale-secondaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-indirectes/interets-immeuble-inoccupe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-indirectes/primes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-indirectes/epargne-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/aides-indirectes/remboursement-tva-taux-reduit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/demande-passeport-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/demande-conseil-klima-agence.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/prime-encouragement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/certificat-lenoz.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/recuperation-eau-pluie/systeme-collecte-eau-pluie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "recuperation-eau-pluie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/certificats/certificat-autorisation-construire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/certificats/certificat-annee-construction-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "certificats",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/statistiques/enquetes-batiments-acheves.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "statistiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/prime-house/aide-installations-techniques-regime-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/prime-house/assainissement-energetique-regime-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/prime-house/aide-financiere-conseil-energie-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/prime-house/aide-financiere-logement-durable-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/klimabonus/aide-installations-techniques-regime-2022.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/klimabonus/aide-financiere-construction-logement-durable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/klimabonus/aide-financiere-renovation-energetique-sans-conseil-energie-un-seul-element.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/klimabonus/aide-financiere-renovation-energetique-logement-conseil-energie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/construction/klimabonus/aide-financiere-renovation-energetique-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "construction",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/surface-habitable/surface-habitable/calcul-surface-habitable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "surface-habitable",
+            "Subcategory4": "surface-habitable",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/construire/autorisation-batir.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/construire/mesurage-propriete.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/construire/vice-construction.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/construire/autorisation-enseigne-publicite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "construire",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/garantie-etat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/prime-architecte-ingenieur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/aide-amelioration-logements-anciens.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/isolation-acoustique-bruit-aerien.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/amenagement-speciaux-personnes-handicapees.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/aides-techniques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/subvention-travaux-restauration-immeubles-historiques.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-capital/aide-financiere-creation-logement-integre.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-capital",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-indirectes/interets-immeuble-inoccupe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-indirectes/remboursement-tva-taux-reduit.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-indirectes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-interet/subvention-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-interet/subvention-interet-fonctionnaires-employes-etat.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/aides-interet/bonification-interet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "aides-interet",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/performances-energie/demande-passeport-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/performances-energie/demande-conseil-myenergy.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/performances-energie/prime-encouragement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/performances-energie/subvention-achat-granules-bois.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "performances-energie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/recuperation-eau-pluie/systeme-collecte-eau-pluie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "recuperation-eau-pluie",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/statistiques/enquetes-transformations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "statistiques",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/klimabonus/aide-installations-techniques-regime-2022.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/klimabonus/aide-financiere-construction-logement-durable.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/klimabonus/aide-financiere-renovation-energetique-sans-conseil-energie-un-seul-element.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/klimabonus/aide-financiere-renovation-energetique-logement-conseil-energie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/klimabonus/aide-financiere-renovation-energetique-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "klimabonus",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/prime-house/aide-installations-techniques-regime-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/prime-house/assainissement-energetique-regime-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/prime-house/aide-financiere-conseil-energie-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/renovation-transformation/prime-house/aide-financiere-logement-durable-2017.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "renovation-transformation",
+            "Subcategory4": "prime-house",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/vente/aspects-contractuels/compromis-vente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": "aspects-contractuels",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/vente/plus-values/declarer-vente-bien-immobilier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": "plus-values",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/vente/certificat-performance-energetique/demande-passeport-energetique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "vente",
+            "Subcategory4": "certificat-performance-energetique",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/pap-pag/pag/plan-amenagement-general.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "pap-pag",
+            "Subcategory4": "pag",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/pap-pag/pap/plan-amenagement-particulier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "pap-pag",
+            "Subcategory4": "pap",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/urbanisme-environnement/assistance-urbanisme-environnement/demande-rdv-cfue-assistance-urbanisme-environnement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "urbanisme-environnement",
+            "Subcategory4": "assistance-urbanisme-environnement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/de/citoyens/logement/prise-rdv/rdv-guichet-aides-logement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Logement",
+            "Subcategory3": "prise-rdv",
+            "Subcategory4": "rdv-guichet-aides-logement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}

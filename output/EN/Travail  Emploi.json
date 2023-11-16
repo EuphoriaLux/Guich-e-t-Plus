@@ -1,0 +1,1474 @@
+{
+    "json_data": [
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": null,
+            "Subcategory4": null,
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-niveau-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-bac-maturite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-equivalence-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/reconnaissance-diplome/reconnaissance-etudes/reconnaissance-titres-formation-etranger-profession-reglementee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "reconnaissance-diplome",
+            "Subcategory4": "reconnaissance-etudes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/inscription-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/demander-extrait-casier-judiciaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/homologation-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/inscription-registre-titres.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/reconnaissance-etudes/reconnaissance-niveau-etudes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/reconnaissance-etudes/reconnaissance-bac-maturite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/prealables-vie-professionnelle/reconnaissance-etudes/reconnaissance-equivalence-diplome.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "prealables-vie-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/recherche-emploi/inscription-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "recherche-emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/mesures-insertion-professionnelle/revenu-inclusion-sociale-revis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "mesures-insertion-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/relations-collectives-travail/candidature-elections-sociales.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "relations-collectives-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/relations-collectives-travail/voter-elections-delegues-personnel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "relations-collectives-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/relations-collectives-travail/droits-devoirs-delegation-personnel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "relations-collectives-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/relations-collectives-travail/roles-delegues-securite-sante-egalite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "relations-collectives-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/relations-collectives-travail/application-convention-collective.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "relations-collectives-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/etablissement-fiche-retenue-impot/demander-modifier-fiche-impot.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-professionnelle/etablissement-fiche-retenue-impot/demander-modifier-fiche-nonresident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-professionnelle",
+            "Subcategory4": "etablissement-fiche-retenue-impot",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-independante/statut-artiste/artiste-professionnel-independant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-independante",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-independante/statut-artiste/intermittent-spectacle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-independante",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/activite-independante/statut-artiste/demande-bourse-aide-creation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "activite-independante",
+            "Subcategory4": "statut-artiste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/contrat-duree-indeterminee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/contrat-duree-determinee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/contrat-temps-partiel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/contrat-saisonnier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/interim.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/engager-personnel-menage-prive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/modification-contrat-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/declaration-CCSS-amendes.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrats-travail/cadre-superieur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrats-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs/contrat-initiation-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs/contrat-apprentissage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs/convention-stage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs/contrat-etudiant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs/contrat-etudiant-cdd.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/contrat-jeunes-actifs/prolonger-resilier-contrat-apprentissage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "contrat-jeunes-actifs",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/regime-travail/teletravail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "regime-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/duree-travail/heures-supplementaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "duree-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/duree-travail/paiement-heures-supplementaires.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "duree-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/duree-travail/arrivee-tardive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "duree-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/duree-travail/beneficier-cet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "duree-travail",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/visite-medicale/visite-medicale-embauche.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "visite-medicale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/visite-medicale/visite-medicale-salarie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "visite-medicale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/types-contrat-travail/visite-medicale/harcelement-moral.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "types-contrat-travail",
+            "Subcategory4": "visite-medicale",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/annuel/conge-legal-annuel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "annuel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/annuel/conges-legaux-annee-anterieure.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "annuel",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/jours-feries/travail-jours-feries.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "jours-feries",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-extraordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-maternite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/protection-femme-enceinte-ou-allaitante.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-accueil-adoption.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-parental.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-maladie-enfant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-accompagnement-fin-vie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-paternite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-force-majeure.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/conge-aidant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "situation-personnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/formation-professionnelle/conge-individuel-formation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "formation-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/formation-professionnelle/conge-sans-solde-formation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "formation-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/formation-professionnelle/conge-linguistique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "formation-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/exercice-mandat/conge-politique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "exercice-mandat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/exercice-mandat/conge-mandat-social.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "exercice-mandat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/exercice-mandat/conge-representation-nationale-parents-eleves.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "exercice-mandat",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/activite-extra-professionnelle/conge-sportif.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "activite-extra-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/activite-extra-professionnelle/conge-volontaire-services-secours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "activite-extra-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/activite-extra-professionnelle/conge-cooperation-developpement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "activite-extra-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/activite-extra-professionnelle/conge-jeunesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "activite-extra-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/activite-extra-professionnelle/conge-culturel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "activite-extra-professionnelle",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/conges-jours-feries/recherche-emploi/conge-recherche-nouvel-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "conges-jours-feries",
+            "Subcategory4": "recherche-emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/incapacite-maladie-accident/declaration-incapacite-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "incapacite-maladie-accident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/incapacite-maladie-accident/declaration-incapacite-agent-public.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "incapacite-maladie-accident",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/incapacite-exercice-dernier-poste/reclassement-interne.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "incapacite-exercice-dernier-poste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/incapacite-exercice-dernier-poste/reclassement-externe.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "incapacite-exercice-dernier-poste",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/incapacite-travail/invalidite-marche-emploi/pension-invalidite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "incapacite-travail",
+            "Subcategory4": "invalidite-marche-emploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/rdv-en-ligne/prendre-rdv-en-ligne-AAA.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "rdv-en-ligne",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/risques-assures/declaration-accident-travail-trajet.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/risques-assures/declaration-accident-scolaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/risques-assures/declaration-maladie-professionnelle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "risques-assures",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-avant-2011/reouverture-dossier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-avant-2011/revision-rente-accident-maladie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-avant-2011/rachat-rente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-avant-2011/prestations-survivants.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-avant-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011/indemnisation-degat-materiel.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011/reouverture-dossier-accident.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011/rente-complete-incapacite-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011/rente-professionelle-attente.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011/obtention-revision-prejudices-extrapatrimoniaux.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-apres-2011/rente-partielle.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-survivants-apres-2011/rente-survie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-survivants-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/prestations-survivants-apres-2011/dommage-moral.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "prestations-survivants-apres-2011",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/accident-maladie/voies-recours/voies-recours.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "accident-maladie",
+            "Subcategory4": "voies-recours",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/statut-salarie-handicape/reconnaissance-statut-salarie-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "statut-salarie-handicape",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/statut-salarie-handicape/revision-statut-salarie-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "statut-salarie-handicape",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/inscription-travailleur-handicape-adem/orientation-atelier-protege-marche-ordinaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "inscription-travailleur-handicape-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/inscription-travailleur-handicape-adem/service-adem-travailleur-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "inscription-travailleur-handicape-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/inscription-travailleur-handicape-adem/revenu-personne-gravement-handicapee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "inscription-travailleur-handicape-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/salarie-handicape/inscription-travailleur-handicape-adem/revenu-salarie-handicape.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "salarie-handicape",
+            "Subcategory4": "inscription-travailleur-handicape-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/resiliation-contrat-preavis.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/resiliation-contrat-commun-accord.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/resiliation-contrat-faute-grave-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/certificat-travail.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/recu-solde-tout-compte.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/pension-complementaire-demission-licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/inscription-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/demission/clauses-non-concurrence.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "demission",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/motifs-licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/licencier-faute-grave.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/contestation-licenciement-tribunal.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/protection-femme-enceinte.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/conge-recherche-nouvel-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/defiscalisation-indemnites-licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/pension-complementaire-demission-licenciement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/priorite-reembauchage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/licenciement/inscription-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "licenciement",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/faillite-employeur/indemnites-faillite-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "faillite-employeur",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/demission-licenciement/deces-invalidite-employeur/mesures-deces-invalidite-employeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "demission-licenciement",
+            "Subcategory4": "deces-invalidite-employeur",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/inscription-adem/inscription-demandeur-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "inscription-adem",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/indemnite-chomage-salarie.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/indemnite-chomage-independant.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/indemnite-chomage-jeune.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/indemnite-chomage-frontalier.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/indemnite-chomage-ressortissant-europeen.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/avantages-nature-chomage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/indemnite-chomage/recours-indemnites-chomage.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "indemnite-chomage",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/aides-reemploi/aide-reemploi-chomeur.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "aides-reemploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/aides-reemploi/aide-mobilite-geographique.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "aides-reemploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/aides-reemploi/contrat-reinsertion-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "aides-reemploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/aides-reemploi/stage-professionnalisation.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "aides-reemploi",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/mesures-jeunes/contrat-initiation-emploi.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "mesures-jeunes",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/chomage/formation/formation-professionnelle-adem.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "chomage",
+            "Subcategory4": "formation",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite/preretraite/preretraite-progressive.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": "preretraite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite/preretraite/preretraite-ajustement.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": "preretraite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite/preretraite/preretraite-salaries-postes-nuits.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": "preretraite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite/preretraite/preretraite-chomeurs-indemnises.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": "preretraite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/preretraite-retraite/preretraite/calculer-indemnite-preretraite.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "preretraite-retraite",
+            "Subcategory4": "preretraite",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/estimation-pension-vieillesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/retraite-pension-vieillesse.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/retraite-pension-anticipee.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/demander-pension-vieillesse-frontaliers.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/demander-baby-years.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/partir-retraite-achat-periodes-assurance.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/demander-remboursement-cotisations.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/assurance-pension/pension-volontaire.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "assurance-pension",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        },
+        {
+            "Link": "https://guichet.public.lu/en/citoyens/travail-emploi/pension-vieillesse/forfait-education/demander-forfait-education.html",
+            "Subcategory": "citoyens",
+            "Subcategory2": "Travail / Emploi",
+            "Subcategory3": "pension-vieillesse",
+            "Subcategory4": "forfait-education",
+            "Subcategory5": null,
+            "Subcategory6": null,
+            "SpecificElementExists": true
+        }
+    ]
+}
