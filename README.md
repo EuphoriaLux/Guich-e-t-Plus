@@ -1,4 +1,4 @@
-# Guichet Plus
+# Guich[e]t Plus
 
 ## 📌 Introduction
 
