@@ -19,13 +19,6 @@ It's designed to improve the structure of the existing Guichet Website to allow 
 - 🏷️ Standard Template Generation: Automatically creates standard templates based on the loaded webpage
 - 😎 Reduced Eye Strain: The dark color scheme reduces eye strain during extended use.
 - 🗑️ Code Block Removal: Removes unnecessary code blocks from the original webpage to provide more space for essential features.
-
-## 🕊️ Up-Coming Features
-
-- 📑 Quick Access to Non-Standard Templates (also called real Templates)
-- 💼 Template Management System
-- 🪇 Installing from Chrome Web Store (Future) Once the extension is available on the Chrome Web Store, you can directly install it from there.
-- ✨ And more...
   
 ## ⚙️ Installation
 
